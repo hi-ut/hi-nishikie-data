@@ -1,0 +1,132 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f0a3f88-08df-449d-9dd2-743c0a4acf28/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "郵便報知新聞 ∽項番:109 資料No.566",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "郵便報知新聞 ∽項番:109 資料No.566"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:109 資料No.566"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1968年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "郵便報知新聞 "
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:大蘇芳年/彫師:彫ヨタ"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "らい病の夫を看病する貞女とみよ(読み下し文_括弧なし:宮城県黒川郡大柿村の農豊島友蔵が／妻とミよハ貞実にして身の行宜敷とて御褒／美御賞詞を得たる仔細ハ十年前にか夫／友蔵悪疾にて醜穢に至りしを年若き身／を以て忌嫌ハず医薬手当より神仏信／心迄心を尽せしに親るゐハかかる癲病者／の妻と為り居てハ一家の外聞あしけれバ離縁して戻るべしと再三勧めたるを聞入ず／薄命の夫を見捨て暇を請ふハ人情に／非ず縦ひ親類の交を絶とも女の道ハ立／通さんと／弥々心を尽しけれども近頃ハ両眼／潰れ全身腐爛し臭き膿を流シ目も当／られず成行を看病懈らず其身ハ襤楼を／衣ると雖も能く稼ぎ夫並に一子にハ時々／相応の服を着せおくにぞ区長此由申立たり )"
+        },
+        {
+            "label": "出版者",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "元記事原文",
+            "value": "郵便報知新聞第四百九十一号 ○宮城県下黒川郡大柿村農豊島友倉妻とみよとて三十一歳なるが身の行ひ貞順なりとて区内より申立たるハ夫友蔵十ヶ年以前より悪疾にて身体腐壌醜穢になりしをとみよ看病怠らず医療を加へ神仏を祷りてありしかハ親族見兼てかかる癩病者の婦と成り居てハ一属の血系を汚し世人へ対し面目を失う事なれハ離縁の上里方へ戻り然る可しと再三申勧めけれとも薄命の夫を見捨暇を乞ふハ人情に有る可からす縦ひ親族の絶好を受るとも婦道を全し度と断然断り彌看病に心を用い飲食夫の心に協ふ様取扱居たりしに近頃に居たり医治功なく友蔵身体腐爛し両眼明を失ひ常に臭汁を流し且歩行も不自由にて身も当られぬ有様なるにも更に忌ミ嫌ハず益力を尽し看病せり元来極窮の身なれとも慈愛の心深く一子并夫ハ相応の衣服を着せ置き其身ハ破衣百衲数年の介抱に倦怠の色無きハ数も無き村野に成長して如此の特行実に天然の良性にて人々亀鑑とも成るへき事なりとて本月四日県令より申立てに成り御褒美賞詞ありしとそ "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0109-0566"
+        },
+        {
+            "label": "Identifier",
+            "value": "2f0a3f88-08df-449d-9dd2-743c0a4acf28"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/2f0a3f88-08df-449d-9dd2-743c0a4acf28",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12122",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f0a3f88-08df-449d-9dd2-743c0a4acf28/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f0a3f88-08df-449d-9dd2-743c0a4acf28/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f0a3f88-08df-449d-9dd2-743c0a4acf28/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/2f0a3f88-08df-449d-9dd2-743c0a4acf28/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33633/full/633,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33633",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 950
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12122/1333099092770.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 158
+                    },
+                    "width": 950
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12122/1333099092770.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 158
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66b60518-412f-46c4-97d7-d606a348f436/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "出火場所方角付∽011",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "出火場所方角付∽011"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "作成日",
+            "value": "1834"
+        },
+        {
+            "label": "資料ID",
+            "value": "011"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\r\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "頃ハ天保五申午年二月七日暁より大風甚々敷／吹発り土石砂を吹立る事あたかもおそれぬ／ものハなかりけり折ふし昼午ノ刻よりいよいよ／西北風強して外神田佐久間町弐丁目より出火シて／松永町平川丁代地佐久間町壱丁目より柳はら／土手下江飛ニし火勢つのりて三方江分れけん／松下町元誓願寺まへ市橋下総守様御やしき大沢様／石原様小伝馬上町代地佐野様冨田様龍閑町／三嶋丁浜松丁鎌倉横丁佐久間丁代地久右ェ門町代地／松枝町小泉丁弁慶橋お玉ケ池高橋様藤代様／横瀬駿河守様御やしき紺屋町新土手向白銀丁／三町目四町目大伝馬塩丁鉄ぽう町小伝馬町三町／牢御やしき石出帯当様御類焼又一口ハ豊島丁／細川長門守様御屋敷大和丁江川丁冨松丁久右ェ門町橋本丁元岩井町代地岩元町九軒町代地川岸／甚兵衛橋小伝馬上町亀井丁附木店馬喰丁此辺平一面三町目より西川初音の馬場御郡代屋敷焼残る横山丁三町目角より由川丁北側両国御橋同広小路ミせ小屋／焼残る南側米沢町ならびニ／薬研堀横山町壱町目弐丁目橘町同朋町此辺不残久松町村松丁若松丁失ノ倉小笠原大膳大夫様／津軽越中守様舟越様一ッ橋様御屋敷御類焼夫より飛火いたし浜丁水野壱岐守様御やしき新大橋焼落る山伏井戸水野様小笠原様牧野遠江守様御屋敷浜丁川岸案芸様永井／肥前守様松島町不残其外御屋敷方数多御類焼西ハ本石町鐘堂焼落る十軒店本町三／四丁目大伝馬町木綿店通旅篭丁大丸屋呉服店焼る大門通り通油丁元大坂／元浜丁田所丁弥兵衛丁長谷川かわ丁冨沢丁横店高砂丁和泉丁玄冶店住吉丁難波丁竃川岸堀留町乗物丁杉森稲荷焼る新材木丁和国橋焼落る岩代丁堺丁中村座並人形葺や／市村座両芝居堀江六軒丁芳丁親父橋落る甚左ェ門丁大坂丁かきから町　御や／松平玄蕃頭様御屋敷吉良様小野様戸田近江守様本多肥後守様御屋敷酒井出雲守様／奥山様紀井様御蔵屋敷稲荷堀松平越中守様安藤対島守様酒井雅楽頭様／様御蔵屋敷行徳川岸まで焼る又一口ハ本町塩川岸より伊世丁瀬戸物丁室町三丁目日本橋／東側焼る越後屋呉服店のこる小田原丁安針丁長浜丁本船町魚川岸不残あらめ橋焼落也 "
+        },
+        {
+            "label": "概要-名称",
+            "value": "出火場所方角付"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "天保"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "富沢"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0011"
+        },
+        {
+            "label": "Identifier",
+            "value": "66b60518-412f-46c4-97d7-d606a348f436"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/66b60518-412f-46c4-97d7-d606a348f436",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/24263",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66b60518-412f-46c4-97d7-d606a348f436/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66b60518-412f-46c4-97d7-d606a348f436/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1102,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66b60518-412f-46c4-97d7-d606a348f436/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/66b60518-412f-46c4-97d7-d606a348f436/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/35016/full/800,694/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1102,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/35016",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1271
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/ed46cf0b12e63eea7740111f6dcb1badd8d9aafe.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 173,
+                        "width": 200
+                    },
+                    "width": 1271
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/ed46cf0b12e63eea7740111f6dcb1badd8d9aafe.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 173,
+        "width": 200
+    }
+}

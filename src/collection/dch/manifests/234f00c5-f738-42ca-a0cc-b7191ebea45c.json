@@ -1,0 +1,120 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/234f00c5-f738-42ca-a0cc-b7191ebea45c/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "江戸出火∽090",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "江戸出火∽090"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "090"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "江戸出火／未八月十七日夜子刻より京橋五郎兵衛町古着／新道より出火同丁片側半丁斗焼失子中刻／火鎮申候／八月二十日／｛押印｝大阪船越町／江戸飛脚問屋／尾張屋惣右衛門／｛押印｝江戸／定飛脚仲間／三度／"
+        },
+        {
+            "label": "概要-名称",
+            "value": "江戸出火"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "新関"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0090"
+        },
+        {
+            "label": "Identifier",
+            "value": "234f00c5-f738-42ca-a0cc-b7191ebea45c"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/234f00c5-f738-42ca-a0cc-b7191ebea45c",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/9678",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/234f00c5-f738-42ca-a0cc-b7191ebea45c/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": null,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": null,
+                                "width": null
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.6.3.0",
+                    "width": null
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

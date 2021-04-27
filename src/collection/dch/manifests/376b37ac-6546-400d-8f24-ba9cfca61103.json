@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/376b37ac-6546-400d-8f24-ba9cfca61103/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:11 資料No.431",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:11 資料No.431"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:11 資料No.431"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一恵斎芳幾,彫師:渡辺彫栄 "
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "強盗、娘から金を奪い、永代橋から突き落とす (読み下し文_括弧なし:盆過て宵闇くらき永代の、橋間をぬける家根舩の、小べりを／かすりて橋上より投入れたる女子あり、苦しき声を／あげ汐にたすけてたべと呀ぶのミ、／せん術波間にただよふを、舩より三浦／某君が、夫たすけよと情のひと言、舩人こころ得／力を尽／して漸く舩／に引揚つ、さて／さまざまと介抱なし、／入水の子細を尋聞に、是ハ中橋／和泉町なる浅野又兵衛が召仕にて、／安房国館山町、小柴茂七が娘やすとて、本年十七／年五カ月になれる者なりけふしも深川に所要／ありて、赴きし帰るさ永代橋のただ中にて、四十／歳余の斬髪男矢庭にやすを引捕、懐中の／金三円を奪取、あまつさへ川中へ、うち込れ／たるよしなるにぞ、三浦君、いたく憐ミ玉ひて、しるべの方へ／送り遣せよと側の人々に命じたまふ程に舩ハ浜／町の河岸につきぬ、折から十七日の月もはや本所方に／さしのぼりて夜ハ初更にぞなりにける／点化老人識 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "○入水の婦を助けし話本月十七日の事なり濱町に住る和／歌山県貫屬士族三浦安なる人薄暮／舩にて永代橋下を過りしに入水の／婦あり三浦が乗舩を見掛け助けく／れよと叫びけれバ人々驚き打寄舩／へ引揚たり其婦息も絶々にて危げ／なれバ直ちに舩を濱町まで転じ種／々介抱を加へし上入水の原由を尋／るにこハ安房国舘山町■小柴茂七／の娘やすとて今年十九歳五ヶ月な／り中橋泉町の淺野又兵衛方へ雇れ／ありしがけふ深川邉に用事ありて／歸途永代迄來りしに先より前後に／なり附らいりし年齢四十余のザンギ／リ男半天三尺帯をしめたる者橋上／人踪の稀少なるを伺ひ逼り來りて／金子を差出べき旨をいひけれバ驚／き逃去らんとせしかど有合の金三／円を奪ひ取れけれバ■を立んとせ／しに帯にて首を縊め抱きあげて其／侭橋より投じたり舩に上りし後ハ／覺へぬよしなれバ醫薬を與へ衣類／を給し其末區内の扱所へ送りけれ／バ又其扱所より雇主又兵衛并受人／なる新右衛門町の長嶋幸介の兩人／へ引渡したり斯必死の危難を救はれ無限の恩波に没せし恵みを謝せ／んと一同この女を伴ひ三浦市の邸／宅へ赴きしに同氏も更に薊生の喜／びとて金二十円を恵めり豈意外の■／誼といハざるべけんや宜なり此女／の畢生この鴻恩を感銘せんと盟へ／りと "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0011-0431"
+        },
+        {
+            "label": "Identifier",
+            "value": "376b37ac-6546-400d-8f24-ba9cfca61103"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/376b37ac-6546-400d-8f24-ba9cfca61103",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/25640",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/376b37ac-6546-400d-8f24-ba9cfca61103/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/376b37ac-6546-400d-8f24-ba9cfca61103/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/376b37ac-6546-400d-8f24-ba9cfca61103/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/376b37ac-6546-400d-8f24-ba9cfca61103/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33544/full/634,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33544",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 951
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/25640/1333099045485.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 159
+                    },
+                    "width": 951
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/25640/1333099045485.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 159
+    }
+}

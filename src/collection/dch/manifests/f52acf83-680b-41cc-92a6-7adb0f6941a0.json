@@ -1,0 +1,132 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f52acf83-680b-41cc-92a6-7adb0f6941a0/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:73 資料No.981",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:73 資料No.981"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:73 資料No.981"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2000年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾/彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "巡査、亭主に姦通現場を押えられる (読み下し文_括弧なし:高輪南町の小泉と云ふ茶屋の亭主／栄蔵ハ四月七日の夕がた余所から返つて／見ると妻のおたけがゐしきの一件たと見えて／制服制帽で大きな長い棒を持た長野政吉／と云ふ巡査に押へ付けられて居る様子に付き／オや手前ハ何が悪い事をしたかとつかつかと立寄れバ／巡査ハ驚ろき姦棒を引堤て遁んとするをイや／此奴ハ好い事をして居たナ太い奴めと打て掛れバ／女房ハなき出す野郎ハ飛び出すジタバタどさくさ／大騒ぎと成りたる折からに巡査原雪これを見認め／て巡査トおたけを拘引したり其とき亭主栄蔵ハ／手早く妻おたけが寝床の辺りに取り散したる／白紙を拾ひ取り／大区へ持参し／たる由／なれバ／慥かに何かの証拠に成る処が／あると見える笑しな咄しだ／アハハハアハハハアハハハアハハハ )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "元記事原文",
+            "value": "高輪南町の小泉と云ふ茶屋の亭主榮藏ハ一昨七日の夕／がた余所から返ッて見ると妻のおたけが何かゐしきの一／件だと見えて制服制帽で大きな長い棒を持た長野政吉と／云ふ巡査に押さへ付けられて居る樣子に付きオヤ手前ハ／何か悪（わる）い事をしたかトつかつかと立寄（たちよ）れバ巡査ハ驚ろき／姦棒を引提（ひツさげ）て遁（にげ）んとするをイヤ此奴（こいつ）ハ好（よ）い事をし居（をツ）たナ／太（ふと）い奴（やつ）めと打（うツ）て掛れバ女房（かゝア）ハなき出す野郎ハ飛び出すジ／タバタどさくさ大騒（さわ）ぎと成りたる折からに巡査原雪これ／を見認めて巡査トおたけを拘引したり其とき亭主榮藏ハ／手早く妻おたけが寐床（ねどこ）の邊（あた）りに取り散（ちら）したる白紙を拾（ひろ）ひ／取り大區へ持参したる由なれバ慥かに何かの證據に成る／べき処があると見える笑（をか）しな咄しだアハヽヽヽヽヽヽ "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0073-0981"
+        },
+        {
+            "label": "Identifier",
+            "value": "f52acf83-680b-41cc-92a6-7adb0f6941a0"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/f52acf83-680b-41cc-92a6-7adb0f6941a0",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/14326",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f52acf83-680b-41cc-92a6-7adb0f6941a0/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f52acf83-680b-41cc-92a6-7adb0f6941a0/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f52acf83-680b-41cc-92a6-7adb0f6941a0/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/f52acf83-680b-41cc-92a6-7adb0f6941a0/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33601/full/643,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33601",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 965
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/14326/1333099075848.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 161
+                    },
+                    "width": 965
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/14326/1333099075848.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 161
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf955789-1219-4957-9bca-28d1cd59fb18/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "三田・田町辺大火（仮）∽100",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "三田・田町辺大火（仮）∽100"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "100"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "南部遠江様下本村町近辺不残焼仙台様同／坂両側残る土屋采女様下焼向側残る又一口は／日ケ窪通宮下町新網代地十番辺不残焼一本松／坂下町焼善福寺残る松平中務様保科様／是より平一面ニ成三田飛新門前甲斐守様中／黒田加ゐ様半焼小山織田様島津様前町屋／寺焼有馬様会津様青木様ハ残る三田寺町／焼る一口ハ三田弐丁目同朋町通新町札之辻久留／島様焼しり火ニて芝田町二丁目迄田町蔵屋敷／不残焼三丁目より九丁目迄焼牛町車町高輪北／町サツマ様前留一口ハひぢり坂下三田三丁目通松平／紀伊様下寺々不残焼伊皿子台町芝台町／細川様魚らん辺寺々町共焼さぎの森辺松平／市正様下白銀伊達紀伊守様下上杉様毛利／左京様下不残五六丁目少々裏有馬熊五郎様留／一口は樹木谷清正公焼向角高野寺残る松平／丹波様九鬼様ニ本榎通寺々不残大和守様有馬様／本多豊後様此外屋敷奥平下水野下留／猿町品川台町ニて留夜四ツ時頃ニしつまりけり／よふよふ人々安との思ひをなしけり／一赤羽根川岸通り御すくい小屋弐ケ所立／｛後欠｝ "
+        },
+        {
+            "label": "概要-名称",
+            "value": "三田・田町辺大火（仮）"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "田中"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0100"
+        },
+        {
+            "label": "Identifier",
+            "value": "bf955789-1219-4957-9bca-28d1cd59fb18"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/bf955789-1219-4957-9bca-28d1cd59fb18",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12172",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf955789-1219-4957-9bca-28d1cd59fb18/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf955789-1219-4957-9bca-28d1cd59fb18/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1102,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf955789-1219-4957-9bca-28d1cd59fb18/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bf955789-1219-4957-9bca-28d1cd59fb18/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29448/full/800,690/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1102,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29448",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1278
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12172/1332321354227.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 172,
+                        "width": 200
+                    },
+                    "width": 1278
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12172/1332321354227.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 172,
+        "width": 200
+    }
+}

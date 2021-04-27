@@ -1,0 +1,148 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "京都大火極本しらべ∽054",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "京都大火極本しらべ∽054"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "作成日",
+            "value": "1858"
+        },
+        {
+            "label": "資料ID",
+            "value": "054"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "京都大火極本しらべ／六月四日午ノ中刻／下諏訪丁万寿寺／西側ろうじより出火折／節西北風つよく東南へ／火移り東ハ柳馬場／南側より東六条へとび／火いたし室町まで七ツ／時ころより風かハり東／北風に相成西ハ新／町通り松原より南ハ／七条迄室町ハ万寿寺上ル処より七条まで／烏丸右同断東洞院／松原通り下ル処より七条／迄間の町高倉右同断下／寺町南側寺々不残焼／失夫より七条新地土手丁／上之口辺東六条御境内／不残御類焼穀御／殿東ハ高瀬川辺まて／遊行寺も焼失仕候／漸四日夜戌之刻ニ／火鎮り申候／六月五日朝仕立便／｛袖｝安政五午六月四日午之刻より／ "
+        },
+        {
+            "label": "概要-名称",
+            "value": "京都大火極本しらべ"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "安政"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "田中"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0054"
+        },
+        {
+            "label": "Identifier",
+            "value": "eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/18204",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1102,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eefbe23e-f6f1-46ee-aa7e-4a78be3d09d6/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29408/full/800,645/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1102,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29408",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1367
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/18204/1332321326833.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 161,
+                        "width": 200
+                    },
+                    "width": 1367
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/18204/1332321326833.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 161,
+        "width": 200
+    }
+}

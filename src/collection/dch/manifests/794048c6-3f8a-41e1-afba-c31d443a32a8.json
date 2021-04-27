@@ -1,0 +1,148 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/794048c6-3f8a-41e1-afba-c31d443a32a8/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "焼場方角細見記∽076",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "焼場方角細見記∽076"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "作成日",
+            "value": "1866"
+        },
+        {
+            "label": "資料ID",
+            "value": "076"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "ハ慶応二丙寅年十一月九日夜八ツ時頃神田永富丁辺より／出火いたし殊ニ西北風はげしくしてミな川丁へうつり夫より三河／丁三丁めまでやしき少々やけ永井さま御やしきうしろ通り少々／かまくら丁同かし通りのこらず中にとしまや外四五けんのこり／向がしとこミせ少々のこる東ハ松下丁同代地ともしんかハや丁／しらかべ丁しん白かね丁元のりもの丁せき口丁ろうそく丁少々／四けんやしきごとうやしきりうかん丁しんごく丁一たて大工丁／此辺のこらず通りニ出かぢ丁二丁め中ほどより一丁めうし／ろ通り前ハ少々のこる今川ばしあと本こく丁壱十けん店／もんとがしうけをい地本白かね丁本石丁かねふき丁右／がハばかり本丁一丁め左りがハ中程のこり本両がヘ丁／きんざ北さや丁一石ばしをちる本かハや丁するが丁／片かハゑちごや本店のこり両がへだな京だなやける／品川丁同うらがし室丁一二りうがんにくかんばんのこる／通り丁へ出両がハ京ばしまてのこらず西がし丁より／かし通りごふく丁此通りかし北こんや丁までのこらず／中のはしをちる京はしらんかん／やける北へもどりて万丁あを物／丁本ざい木丁かし両か／ハのこらずやなぎ丁／すミ丁まで／此火竹がしにてとまる／それより松やばしをちる／まつや丁同上のうち本八／丁ぼり壱丁めより五丁め迄／のこらず丁御くミやしき／大はんやけをかざき丁／此辺所々の代地のこらず／北じま丁しんぼう小じ／てうちんかけよこ丁代官／やしき少々亀じま丁かし／通りのこらず全六丁ミづ／たに丁同上地与作やしき／たけじま丁北こんや丁／貞ミねやしきかめや／やしきかめざハ丁／南丁ぼり壱三／五代地同二丁め／代地中のはしをちる／永しま丁さいはひ／丁ひびや丁／又元へかへりて／ゑつ中さま／御やしきほそ／川さま少々／しんばばし／やけをちる此火／てつぽうづへうつり南八丁ぼり壱丁めより／五丁め迄両かハのこらず朽木さま井伊さまあわさま／堀田さま土井さまとうとうミさま中川さま御やしきハ／かし通り御長やのこる此辺小やしきやけをく平さま／半やけけんとうばし両小はしをちるてつぽうづいなり／やしろばかりのこる本ミなと丁船まつ丁同二十けん丁ほそ川さま半やけ／松平さがミさま御やしきさむさばしニてとまる御台場表へハ少々やける／此火佃じまへとび石川さまりやうし丁大はんやける翌十日昼六ツ時／過漸火鎮り人々安土の思ひをなす唯火の用心ハかんやうなり／ "
+        },
+        {
+            "label": "概要-名称",
+            "value": "焼場方角細見記"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "慶応"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "田中"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0076"
+        },
+        {
+            "label": "Identifier",
+            "value": "794048c6-3f8a-41e1-afba-c31d443a32a8"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/794048c6-3f8a-41e1-afba-c31d443a32a8",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/25145",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/794048c6-3f8a-41e1-afba-c31d443a32a8/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/794048c6-3f8a-41e1-afba-c31d443a32a8/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1102,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/794048c6-3f8a-41e1-afba-c31d443a32a8/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/794048c6-3f8a-41e1-afba-c31d443a32a8/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29428/full/800,642/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1102,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29428",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1373
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/25145/1332321340741.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 161,
+                        "width": 200
+                    },
+                    "width": 1373
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/25145/1332321340741.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 161,
+        "width": 200
+    }
+}

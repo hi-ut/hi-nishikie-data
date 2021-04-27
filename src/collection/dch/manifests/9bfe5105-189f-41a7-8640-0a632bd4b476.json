@@ -1,0 +1,132 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9bfe5105-189f-41a7-8640-0a632bd4b476/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "郵便報知新聞 ∽項番:98 資料No.425",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "郵便報知新聞 ∽項番:98 資料No.425"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:98 資料No.425"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1978年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "郵便報知新聞 "
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:大蘇芳年 /彫師:渡辺彫栄 "
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "宮本花子の怪力に、酔漢目を廻す。(読み下し文_括弧なし:琉球紬に繻子の帯唐人髷も眼／立ねど眼波清しく膚皓く那処やら／儼とした姿容橋本町に来かかりしが／何許の酒店の茶靡漉に酔たりけん／踉蹌として来る男あり出会頭に撞／突り美人に眼の無き酔漢が／溌婦／何すると胸前とつて振廻すを那女子ハ／一笑しその手をとらへて捻返しぐつと／領首牽絞しに忽特地に暈絶せしかバ／早足をあげて丁と蹴るけられて／漢子ハ翻筋計りしバしハ起も得ざ／りしとなり是此女子ハ何ものぞ／撃剣会に名を得たる宮本花子／といふ女とぞ　　　　　　　　　　　亀州漁人記 )"
+        },
+        {
+            "label": "出版者",
+            "value": "錦昇堂"
+        },
+        {
+            "label": "元記事原文",
+            "value": "○去月十七日一大區橋本町一丁目にて一人の娘年頃二十（はたち）はかりにや最麗（こるわ）しく嫋（たほや）かなるか琉球紬（つむぎ）の繻子（■■■）の帯富世風にあた■■らず何許（どこ）やら儼然（きつ）とした姿■常人物（■■■■）ならす見えけるか何用ありてか急（いそ）かしけに僕をもつれす來りしを何許酒店（いつこのさかや）の酔たりけん蹌々（ひょうヽ）として來かヽる者あり忽ち礑（はた）突■（つきあたり）りあたりに人の無りけれハ女ハそと見て心動■胸前（むなぐら）とりて振廻（ふりまは）し喧嘩仕悪（しかけ）にしなたれ寄れハ女ハ■に慄（おのヽ）きて逃れ去るかと見る程の左ハ■■■して取たる腕を捻（つね）ぢかへし白く弱（たよわ）き手を以て荒くれ男の顎（■■）を引しめクッと力を入ると奢（おご）しく件の男ハ■絶（ぬ■■■）せしを左足を揚て丁と蹴（け）る蹴られて何かハたまる■も寄り又一括を入れしかハ男ハ■くるのミ物いへす女ハ直（たヽち）に十三小区の屯所へ其由訴へ出たりとそ此女ハ神田末廣町二十番地宮本常右衛 門か娘にて名を花といひ性質武術を好ミ去年■剣会にも勇名を著せし者といへり "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0098-0425"
+        },
+        {
+            "label": "Identifier",
+            "value": "9bfe5105-189f-41a7-8640-0a632bd4b476"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/9bfe5105-189f-41a7-8640-0a632bd4b476",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11744",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9bfe5105-189f-41a7-8640-0a632bd4b476/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9bfe5105-189f-41a7-8640-0a632bd4b476/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9bfe5105-189f-41a7-8640-0a632bd4b476/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9bfe5105-189f-41a7-8640-0a632bd4b476/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33623/full/614,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33623",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 921
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/11744/1333099087538.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 154
+                    },
+                    "width": 921
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/11744/1333099087538.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 154
+    }
+}

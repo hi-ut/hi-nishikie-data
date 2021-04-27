@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ed4740bd-8d98-490d-8d4a-e906e49b7d2a/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞 ∽項番:57 資料No.919",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞 ∽項番:57 資料No.919"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:57 資料No.919"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞 "
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾,彫師:ホリ栄 "
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "夫婦強盗、ナタで旅人を惨殺(読み下し文_括弧なし:去年十二月二十日の／頃信州上田の／旅商人／なにがしだか壱人碓井／峠にさしかかりしに此／山中に住炭焼のおのこ／彼の商人の懐中をものせんと夫婦／の者とも云ひ合せ／人無きおりを幸ひと／かの商人を、手に持し／ナタおつかつて斬り／殺し所持の金子を／奪ひ取りあらため／見しが思ひしよりわづか斗りとあきれしも／知る者たえてなかりしが／天網いかで免るべき彼の鉈に血の付いたるより／此事既に露ハれしと実に畏るべし畏るべし )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋 "
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "要確認"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0057-0919"
+        },
+        {
+            "label": "Identifier",
+            "value": "ed4740bd-8d98-490d-8d4a-e906e49b7d2a"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/ed4740bd-8d98-490d-8d4a-e906e49b7d2a",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/26210",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ed4740bd-8d98-490d-8d4a-e906e49b7d2a/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ed4740bd-8d98-490d-8d4a-e906e49b7d2a/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ed4740bd-8d98-490d-8d4a-e906e49b7d2a/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/ed4740bd-8d98-490d-8d4a-e906e49b7d2a/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33587/full/642,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33587",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 963
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26210/1333099068284.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 161
+                    },
+                    "width": 963
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/26210/1333099068284.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 161
+    }
+}

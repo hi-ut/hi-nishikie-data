@@ -1,0 +1,132 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b961cfd8-e0db-494a-8efa-a16587b353fa/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:70 資料No.969",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:70 資料No.969"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:70 資料No.969"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2003年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾/彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "芸者が男装して罰金刑(読み下し文_括弧なし:三月十四日／小舟町の／火事の時に／紺木綿の股引はら／かけにて頭巾を／かむり麻うら草／履をはき差し子の半天を着て／美しき男があちこち火事見舞にあるき／廻る様子が何うも女らしき物腰ゆへ／或る巡査が見とがめ呼び止め住所／姓名をたゞしたるにお目きゝの通り／芸者にて元大坂町まさきや／之布袋軒とか富本／安和太夫とか／幾つも名の／ある中村／清助と／云ふ人の養女おやまで／有つたそれから屯所へ引かれたそうだが定めし罰金だろう )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "元記事原文",
+            "value": "同日小舟町の火事の時に紺木綿（めくらじま）の股引はらかけにて猫／頭巾を冠り麻うら草履をハき差し子の半天を着て美しき／男が彼地（あち）こち火事見舞にあるき廻る樣子が何（ど）うも女らし／き物腰ゆゑ或る巡査が見とがめて呼び止め住所姓名を糺／したるに成る程おめきゝの通り女も女しかも藝者で有ッ／た其名を云ひませうかしかも名ハ多（たん）とある是ハ元大坂町／ぜいたく新道のまさき屋とか富本安和太夫とか布袋軒と／かまだ何とか何とか幾ツも名のある本名ハ中村清助と云ふ／人の養女だとか立女だとかで其名ハおやまで有ッたそれ／から直に屯所へ引かれたそうだが定めし罰金だろう "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0070-0969"
+        },
+        {
+            "label": "Identifier",
+            "value": "b961cfd8-e0db-494a-8efa-a16587b353fa"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/b961cfd8-e0db-494a-8efa-a16587b353fa",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/28411",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b961cfd8-e0db-494a-8efa-a16587b353fa/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b961cfd8-e0db-494a-8efa-a16587b353fa/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b961cfd8-e0db-494a-8efa-a16587b353fa/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/b961cfd8-e0db-494a-8efa-a16587b353fa/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33598/full/637,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33598",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 956
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/28411/1333099074242.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 159
+                    },
+                    "width": 956
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/28411/1333099074242.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 159
+    }
+}

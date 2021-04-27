@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88baec51-6daa-412c-9fe5-89aade200245/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:51 資料No.909",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:51 資料No.909"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:51 資料No.909"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一惠斎芳幾,彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "人か狸か。少女の元に通う美少年。 (読み下し文_括弧なし:狸の人に化たるハ怪むに／足ねど。人の狸に化たるハ。眼病平癒／の流行仏に託して愚俗の眼を暗ませ。一杯半を煎じつめ一杯くわす薬師堂に。／妖魔に罹る奇病の咒を。頼むハ武州秩父郡／横瀬村の農某ヶ娘の房へ毎夜に通ひ来れる／美少年ハ人歟狸歟。狸か人か。腹鼓うつ／太平の時代にもかかる奇事はありけん／転々堂主人戯記 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋 "
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "武州秩父郡横瀬村に根古屋と云ふ所あり其所（そこ）に住む人／の娘が許へ毎晩狸が若き男に化けて来るとて大いに驚き／騒ぎしが同村に流行仏と唱ふる薬師堂あり是に願を掛け／て此の障碍（さハり）を祓らひ玉ハれと堂守（どうもり）の法師へ頼みたれバ法／師シカツべらしく仏前に向ひて合掌し何かグドグド唱へ／ごとをして扨願主に向ひ此の化物（ばけもの）ハ薬師様が相違なく取／り殺して下さると仰せらるるなりと云ひけるが一雨日過／ると其家の裏（うら）の竹藪に古狸が死して在りしてとか此の様な／訝（いぶ）かしい事がをりをり有るゆゑに愚俗の怪を説くを好み／て流行の神仏もあるなるべし想ふに是等も若い男が狸に／化けて来り事のやりそふなひを隠さんが為に薬師仏の名／代を勤めて狸を打殺したる者なるべし "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0051-0909"
+        },
+        {
+            "label": "Identifier",
+            "value": "88baec51-6daa-412c-9fe5-89aade200245"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/88baec51-6daa-412c-9fe5-89aade200245",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/25406",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88baec51-6daa-412c-9fe5-89aade200245/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88baec51-6daa-412c-9fe5-89aade200245/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88baec51-6daa-412c-9fe5-89aade200245/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/88baec51-6daa-412c-9fe5-89aade200245/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33582/full/629,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33582",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 943
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/25406/1333099065679.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 157
+                    },
+                    "width": 943
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/25406/1333099065679.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 157
+    }
+}

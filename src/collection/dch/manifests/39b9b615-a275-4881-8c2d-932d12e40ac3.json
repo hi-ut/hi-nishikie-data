@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39b9b615-a275-4881-8c2d-932d12e40ac3/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞 ∽項番:30 資料No.813",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞 ∽項番:30 資料No.813"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:30 資料No.813"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞 "
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一惠斎芳幾,彫師:渡辺彫栄 "
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "女装の男との結婚発覚。ざんぎり頭に。 (読み下し文_括弧なし:先入主となるとは古人の確言。馴るるによりて性も又。／自然と変ずる物なる歟。讃州香川の郡なる。東上の村内に。／平素女子と思ひたる。お乙が両親ハ児育の。／無きを憂て男子には。女子の名を付け育てよと。／世俗の言も信愛に、暑さ寒さの衣類より。髪化粧／から縫仕事を。総て女子に模擬せしも。習ひが気質と／姿形粧。容止も憎からぬ。十八歳に同国なる。高松藩の某へ婢／勤仕の夜なべの暇。同家の処女と姦通なし。近き隣の婦女子／等にたち交はりて戯るれど。更に疑ふ人もなく。然るに同国／三木郡保元村の塗師職なる。早蔵と呼ぶ男あり／いつしかお乙をを見恋て。思ひの丈を掻合せ。木地を／見せたる真心に。心の底を研出して、云よる事の／有り［ママ］けるが。基より女子にあらざるを窃に語れバ／好事にも。男を承知で婚礼なし。／三年が月日を過りしが。頃日／お乙が送籍の、調に事の／顕れて。たけなる髪をぞつきりと。散髪天頭の男にされ。／七歳ならぬ二拾五で、男女の／籍の判然しハ。是赫々な／聖代の御恩澤とハ云ふものの／実に痴愚譚にこそ／墨陀西岸／温克龍吟誌 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "○讃州香川郡東上ノ村某会て一子を得たり始め名を乙吉と呼たりしが遂に又おとと■改め呼べり蓋し屡々男子の夭折せるに懲りて假に之レを女子に擬して以て其無事に成長せん事を願ふなり而して乙も又遂に女安んじ長ずるに及んで糸竹を弄し縫績を学び遂に假を以て眞と為すに至るも人之レを知るもの少なし十八才の時会て高松藩某の家に婢となりて窺に其処女に姦するも人之レを知らず又屡々女伴と相狎れ相戯る■も人素より之レと恠しむ者あらず其後同州三木郡西保元村塗師屋早造乙を見て之レを悦こび之レを迎えて妻と為さんと欲す乙云ふ我実は男子なり君もし能く嫌はずんば君が家事に宰たらんも亦妨けざるなり只枕席の事は君請に別に之レを謀れと早造これを聞て驚き且ツ奇として曰く予の妻を娶る素より家事の〓[為の旧字]なり卿若し■く心を合ハせ予が一臂の力を助けバ女子を娶る事■々ならんと議成て遂に迎へて結婚の禮を行ふ夫婦たる事三年後戸籍の調べ厳重なるに至て改めて送籍の事を謀る戸長之レを聞て云く乙ハ元來男子なり何ぞ人家の■と成ることを得んやと乙之レと爭ふて屈せず遂に彼の一件を執て之レを■する及んでに乙又一■なし困てその?髪を根よりフッツと切てザンギリ頭と成し二十五年にして始めて男子の服を着して早造が宅に歸れり此頃聞く手巾を以て其頭を包み座して縫針の業を把れり "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0030-0813"
+        },
+        {
+            "label": "Identifier",
+            "value": "39b9b615-a275-4881-8c2d-932d12e40ac3"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/39b9b615-a275-4881-8c2d-932d12e40ac3",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/15155",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39b9b615-a275-4881-8c2d-932d12e40ac3/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39b9b615-a275-4881-8c2d-932d12e40ac3/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39b9b615-a275-4881-8c2d-932d12e40ac3/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/39b9b615-a275-4881-8c2d-932d12e40ac3/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33563/full/637,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33563",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 955
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/15155/1333099055681.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 159
+                    },
+                    "width": 955
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/15155/1333099055681.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 159
+    }
+}

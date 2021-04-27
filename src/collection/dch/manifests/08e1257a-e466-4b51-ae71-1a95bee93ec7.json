@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08e1257a-e466-4b51-ae71-1a95bee93ec7/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "諸國日々新聞集∽項番:211 資料No.278",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "諸國日々新聞集∽項番:211 資料No.278"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:211 資料No.278"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1923年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "諸國日々新聞集"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:茂広/彫師:彫福"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "(読み下し文_括弧なし:靱辺某の妻でつち一人連て住吉へ詣でんと／時をたがへて夜ふけず賊／きたりて女をはごうとする／でつちをおそれてはたけ中に／ひそむ女悲泣すれども／外に人なりし女なれバはだか／にてハいづくへも行がたくじ／ひをたれて下帯だけ恵ミ／玉へこれハ直内かあると／引すてし車の／ほろう与へるゆへ／女是を得て去ル／処へ又一人ぞく来る／今女をはぎてほろう／あたへし事を云■ほろうニハ二十円を／ぬい込置たり衣るいを奪ふも金を失なハじ／そん有婦人を追とめんと二人ぞくハはしり行あとに／丁つちハ車の内の衣ふくをつかつかと小わきにかい込ミ／飛が如くニ家ニ皈り主のつつがなきをよろこび／両賊の云し事をいへバかのほろうを見るにはたして二十円の金札あり夜の明るを／まちて訴へたれバでつちの計ひ神妙／なりとて賊金ハでつちを賜わりける／頃ハ戌ノ二月五日也トゾ／　　　　柳桜記 )"
+        },
+        {
+            "label": "出版者",
+            "value": "錦喜／富士政"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0211-0278"
+        },
+        {
+            "label": "Identifier",
+            "value": "08e1257a-e466-4b51-ae71-1a95bee93ec7"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/08e1257a-e466-4b51-ae71-1a95bee93ec7",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/27781",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08e1257a-e466-4b51-ae71-1a95bee93ec7/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08e1257a-e466-4b51-ae71-1a95bee93ec7/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08e1257a-e466-4b51-ae71-1a95bee93ec7/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/08e1257a-e466-4b51-ae71-1a95bee93ec7/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33678/full/669,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33678",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1003
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/27781/1333099117086.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 167
+                    },
+                    "width": 1003
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/27781/1333099117086.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 167
+    }
+}

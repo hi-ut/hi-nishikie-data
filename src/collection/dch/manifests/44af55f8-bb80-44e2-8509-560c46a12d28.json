@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44af55f8-bb80-44e2-8509-560c46a12d28/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "近世人物誌やまと新聞付録∽項番:132 資料No.15",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "近世人物誌やまと新聞付録∽項番:132 資料No.15"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:132 資料No.15"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1950年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "近世人物誌やまと新聞付録"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:芳年/彫師:彫工円活"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "木戸翠香院殿(読み下し文_括弧なし:木戸翠香院殿／翠香院殿ハ故贈従二位木戸孝允公の／夫人なり始の名ハ竹松元西京三本木／の芸子なりしが文久の末の頃尊王／攘夷の論天下に起り四方の浪士西京／に集りしに当り屡々頼三樹三郎橋／本左内等の人々に聘せられて尊攘の説／を聞きしを以て慷慨として国歩の艱／難を憂へあはれ妾も男子なりせバ／と思ひ続くる折からはしたなく長藩／の桂小五郎に邂逅したり桂小五郎と／ハ即ち故贈二位の旧名なり元治の乱／後幕府頻りに小五郎を逮へんと欲／し追捕甚だ急にして身を遁るるに処／なし竹松深く志士の屯遁を悲ミ甲斐／甲斐しく小五郎を其家の床下に匿し遂ニ／遂捕を免かれたり維新の後贈二位／青雲に昇り深く竹松の志を感じ之を／迎へて夫人となし以て再生の徳に報いらる／二位逝去の後夫人髪を断り法号を附／して翠香院と云ひ西京に閑居して二位／の冥福を修め以て其身を終られたり )"
+        },
+        {
+            "label": "出版者",
+            "value": "馬喰四木宗 "
+        },
+        {
+            "label": "Identifier",
+            "value": "44af55f8-bb80-44e2-8509-560c46a12d28"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0132-0015"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/44af55f8-bb80-44e2-8509-560c46a12d28",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/9015",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44af55f8-bb80-44e2-8509-560c46a12d28/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44af55f8-bb80-44e2-8509-560c46a12d28/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44af55f8-bb80-44e2-8509-560c46a12d28/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/44af55f8-bb80-44e2-8509-560c46a12d28/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33651/full/639,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33651",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 958
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/9015/1333099102810.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 160
+                    },
+                    "width": 958
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/9015/1333099102810.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 160
+    }
+}

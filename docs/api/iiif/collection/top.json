@@ -1,0 +1,32 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/nishikie-data/api/iiif/collection/top.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "https://hi-ut.github.io/nishikie-data/api/iiif/collection/rekihaku.json",
+            "@type": "sc:Collection",
+            "label": "歴博・館蔵錦絵コレクション",
+            "vhint": "use-thumb"
+        },
+        {
+            "@id": "https://hi-ut.github.io/nishikie-data/api/iiif/collection/hi-nishikie.json",
+            "@type": "sc:Collection",
+            "label": "東京大学史料編纂所・錦絵データベース",
+            "vhint": "use-thumb"
+        },
+        {
+            "@id": "https://hi-ut.github.io/nishikie-data/api/iiif/collection/dch.json",
+            "@type": "sc:Collection",
+            "label": "東京大学史料編纂所・錦絵データベース",
+            "vhint": "use-thumb"
+        },
+        {
+            "@id": "https://hi-ut.github.io/nishikie-data/api/iiif/collection/ishimoto.json",
+            "@type": "sc:Collection",
+            "label": "東京大学史料編纂所・錦絵データベース",
+            "vhint": "use-thumb"
+        }
+    ],
+    "label": "錦絵ギャラリー"
+}

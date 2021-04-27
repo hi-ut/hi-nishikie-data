@@ -1,0 +1,81 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://khirin-a.rekihaku.ac.jp/manifests/nishikie/H-22-1-26-67.json",
+    "@type": "sc:Manifest",
+    "attribution": "国立歴史民俗博物館 National Museum of Japanese History",
+    "label": "雪月花　江戸　柳橋雪　高嶋米庵実は鼠小僧　蜆売三吉",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "logo": "https://khirin-ld.rekihaku.ac.jp/resource/img/logo-01.png",
+    "metadata": [
+        {
+            "label": "コレクション名",
+            "value": "楊洲周延"
+        },
+        {
+            "label": "版型",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "縦"
+        },
+        {
+            "label": "員数",
+            "value": "1枚"
+        },
+        {
+            "label": "和暦",
+            "value": "明治17年12月"
+        },
+        {
+            "label": "主題分類",
+            "value": "武者絵・歴史画"
+        },
+        {
+            "label": "内容分類",
+            "value": "戯作・戯曲・講談"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F6860.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "height": 1500,
+                    "images": [
+                        {
+                            "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F6860.tif/full/full/0/default.jpg",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F6860.tif/canvas",
+                            "resource": {
+                                "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F6860.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F6860.tif/canvas",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fnishikie%2F464F6860.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1500
+                            }
+                        }
+                    ],
+                    "label": "コマ 1",
+                    "width": 1500
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F6860.tif/full/400,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals"
+}

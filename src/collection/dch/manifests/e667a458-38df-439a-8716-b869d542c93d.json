@@ -1,0 +1,104 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e667a458-38df-439a-8716-b869d542c93d/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京絵入新聞 付録∽項番:261 資料No.3823",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京絵入新聞 付録∽項番:261 資料No.3823"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:261 資料No.3823"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1908年以降 図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京絵入新聞 付録"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:芳幾/彫師:"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "東京絵入り新聞の広告。毒婦お吉の挿絵入り。 (読み下し文_括弧なし:裏見富士女西行／中村福助作／久保田彦作校合／当絵入新聞／本日より引／続毎日記載いたし候／乍憚口上／先以御贔屓様方御機嫌克恐悦至極に奉／存升る随まして私儀昨年中より病気にて既に大患にも陥り可申の所／大医方御方剤相応し加るに松本大医御差図にて大磯海水浴にして／暫く保養仕り候効験に依り再び何れも様へ御目通り致し升るハ実以／冥加至極難有仕合に奉存扨大磯入浴中徒然の余り日々数十町／宛遊歩仕り候折柄不斗承りし一奇談ハ同地出生の女子にして／成長の后江戸へ罷出種々の悪行の末天網に罹り重き所刑に／臨みしが此者常に歌道の心懸ありて／一首の和歌を詠ぜし故いとも危ふき／一命を右歌の徳にて助かり爰に／懺悔して尼となり彼鴫立／沢の古蹟西行庵にて臨／終を遂げしといふ里人これを／西行お吉と号け夜話の／料と致せしを私覚書に／致し所持罷在候／を久保田彦作／氏に見せし所／恰もよく東京／絵入新聞の依頼も／あれバ同氏校合の上／投書して然るべしとの勧めに余儀なく草稿を贈り升た私ハ／兎もあれ同新聞御愛頑の諸君次に私し御ひゐきの／御方様幸ひに御高覧下さらバ難有奉有升る則ち／像上の挿画は毒婦お吉が三度姿を換升た体と御評判御評判御評判／ )"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0261-3823"
+        },
+        {
+            "label": "Identifier",
+            "value": "e667a458-38df-439a-8716-b869d542c93d"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/e667a458-38df-439a-8716-b869d542c93d",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16736",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e667a458-38df-439a-8716-b869d542c93d/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": null,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": null,
+                                "width": null
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.6.3.0",
+                    "width": null
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/308754af-d2d7-45b8-a7eb-80d9235b4cc3/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:88 資料No.1046",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:88 資料No.1046"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:88 資料No.1046"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1986年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一恵斎芳幾/彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "狂女ですら真似る、音羽屋の技芸。(読み下し文_括弧なし:「なふなふ舟人こと問ん。是ハ目黒の辺に／住居する某が妻にて侍るが。此川渡し／て玉ひてよ。といふに舟人うち驚き「賎し／からざる奥様のこの深更に彷徨ハ。情夫を寝／とりたる婦を呪へる時参歟。葵の上と。清姫を二役／かねた御形勢。這は日高にあらざれバ舟ハ渡してまい／らせん。吟行たまふ／事故を語り玉へ／と、愚弄にぞ。「あら／恥かしや吾姿他見／にそれと照さ／るる野辺の蛍／の光る君。いと／し殿子に棄／られて。詮かた／夏の短夜も／寝られぬ〓001［虫へんに厨］の広房なき／つゝ明す時鳥。その初声ハお／かしやと。泣か笑ふか生躰も／涙にむせぶ狂乱の。女の所作／ハ喜昇座に羽をのす鶴の／音羽屋が。技芸〓002［言べんに花］しき／評判に大繁昌を／するもむべなり　　　　　　　　　　　　　　　　　　　　　　　　小説の作者／　　　　　　　　　　　　　　　　　　　　　　　　転々堂主人戯記／ )"
+        },
+        {
+            "label": "出版者",
+            "value": " 錦昇堂"
+        },
+        {
+            "label": "Identifier",
+            "value": "308754af-d2d7-45b8-a7eb-80d9235b4cc3"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0088-1046"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/308754af-d2d7-45b8-a7eb-80d9235b4cc3",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/9118",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/308754af-d2d7-45b8-a7eb-80d9235b4cc3/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/308754af-d2d7-45b8-a7eb-80d9235b4cc3/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/308754af-d2d7-45b8-a7eb-80d9235b4cc3/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/308754af-d2d7-45b8-a7eb-80d9235b4cc3/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33615/full/626,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33615",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 939
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/9118/1333099083353.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 157
+                    },
+                    "width": 939
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/9118/1333099083353.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 157
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dfdffb0b-4a53-4b4c-870b-6c6ba382ab38/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "近世人物誌やまと新聞付録∽項番:122 資料No.5",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "近世人物誌やまと新聞付録∽項番:122 資料No.5"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:122 資料No.5"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1959年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "近世人物誌やまと新聞付録"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:芳年/彫師:円活刀"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "江藤新平(読み下し文_括弧なし:江藤新平氏／氏ハ佐賀三平の壱人にて一度参議の要地を／占玉ひしも遂に方向を過りて刀下の鬼となりし／事ハ普く人知る所なれバ贅せず未だ人の耳／にせざる一事を掲げんに今を拒る二十年前明治五年／二月二十一日東京日々新聞の初号発兌の日当時仮に／本局とせし浅草芽町二丁目なる條野伝平氏が／宅へ身形りも然迄ハ華美ならざる一官吏来り／予ハ本日太政官に於て東京日々新聞と題せし／新聞の発行なるを閲し発行所を見れバ当家／なるを以て一言忠告為し度事ありて参れり今／日ハいまだ新聞紙の何たるを弁へざる者多かるべ／けれハ極めて得る所ハ費す所を償ふに足ざる／べし然れども世の進むに連て販路を進むべき／ものハ新聞に過たるものなし之を維持せんハ／忍耐にあり読者を増加すべきハ勉強にあり足／下等此二ツに能く堪なバ一大商業とならんハじゅうねんを／期すべからずと其他欧米の新聞光京杯懇篤に／長々と説諭し予も本日より読者の壱人となるべけ／れバ明朝より配附を乞ふ遠方なれバ序もある／まじきが追々順路に読者を増すべき様周旋も／すべし予ハ麹町七丁目の江藤なりと言はれしを／條野ハ伊藤と聞誤り伊藤某と仰らるるやと問／たるに新平なりとの答へに條野ハ驚き貴顕自／ら駕を狂げ懇篤の教諭ありし事肺腑に銘じ／て忘却仕るまじと謝したり些宅へも参られよと／帰るを見れバ門にハ荘麗なる馬車一輌あり自ら馭して浅草橋の方へ至られたりとか先見の明あ／ると事に親切なる此一事を以て知るべし当時左／院副議長にて在せしといふ )"
+        },
+        {
+            "label": "出版者",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0122-0005"
+        },
+        {
+            "label": "Identifier",
+            "value": "dfdffb0b-4a53-4b4c-870b-6c6ba382ab38"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/dfdffb0b-4a53-4b4c-870b-6c6ba382ab38",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/25576",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dfdffb0b-4a53-4b4c-870b-6c6ba382ab38/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dfdffb0b-4a53-4b4c-870b-6c6ba382ab38/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dfdffb0b-4a53-4b4c-870b-6c6ba382ab38/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/dfdffb0b-4a53-4b4c-870b-6c6ba382ab38/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33642/full/624,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33642",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 936
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/25576/1333099097910.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 156
+                    },
+                    "width": 936
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/25576/1333099097910.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 156
+    }
+}

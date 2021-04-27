@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72d6f7cc-a669-4da1-ac25-10ba7ed15ecd/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞 ∽項番:50 資料No.900",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞 ∽項番:50 資料No.900"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:50 資料No.900"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞 "
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾,彫師:渡辺彫栄 "
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "奸智にたけた悪徳医師幸庵 (読み下し文_括弧なし:駕籠の簾ハ嗅杖より太く／薬篭の金鏤物ハ、威議／揚々と輝き、愚俗の眼を驚／かす医ハ稲荷、能人を殺／せとも尾を出さずと、古人三馬子／も論じたり、古き川柳に曰く三枚／で、ばかだばかだと殺なりとハ、世上の／内実を穿ちし洒落、夫等ハついと／昔しの事にて、かく文明の世に至りてハ、／医学ますます盛に開け人の病気ハ／まだなれ、上医ハ国を医と言ふ、名／医多かる其中に所ハ浅草裏門代／地嵐にあらぬ花岡が、奸智にたけて匕先より只口／先の調合に、金ある家の娘をバ、妻に嫁て難癖つけ、離別なしてハ持参の品を、返さぬ事も数度あるよし。爰に近頃一話／あり、浅草橋ハ近傍炭薪／渡世の北川おいちのその長女／ふぢと云へるが弟の／病気の／薬取／に来るを縁に手なづ／けて、妻に嫁へど兼てより心／に工ミしことあれバ、無根事／に柄をすげて、密隠と／罵り打擲はては／弟子なる某に／不義言掛よと難題に竟に我家へ逃帰りしを、花岡是を能／事ぞと裁判庁へ訴出しと歟、不日黒白判然たらん／待乳山麓／温克堂龍吟誌 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "昨日西紺屋町の質店に強賊の押入りたる件を記載せし／が今其確報を得て玄に再記す本月五日夜右質店に於て烈／しく拍子木の音しけれバ交番の巡査火事なりと心得遽し／く走せ付け見るに火事にハあらで賊の押入りしなり是に／於て密かに戸口にひそみ賊の出るを待居たる中に自余の／巡査も之を聞付け追々走せ集りけれバ賊ハ此有様を見／て進退これ極まれりとや思いけん却て静まりかえりて音／もせず斯てハ果じと数名の巡査手配なして家内に踏入り／其所か彼所かとさがすに奥まりし闇室より一賊白刃を打／振り我こそ岩城無宿長吉あんりとほこりげに名乗りて打つ／て出しを数名の巡査テウと応じて遮り戦い聊か手疵を負／う者ありしが遂に一等巡査園木甚吾モジリを以て曳き倒／し起んとするを西条信道心得たりと無手と組ミ付き難な／く之を捕縛為し屯所に拘引して糾問なすに此賊ハ彌左衛／門町水島伊之助方に止宿する鍛冶職加藤勝之助なりと最／初拍子木を鳴らせしハ典舗の老母なり事に臨んで警発の／所行は流石に老人の落ち付き感ずるに余りあり"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0050-0900"
+        },
+        {
+            "label": "Identifier",
+            "value": "72d6f7cc-a669-4da1-ac25-10ba7ed15ecd"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/72d6f7cc-a669-4da1-ac25-10ba7ed15ecd",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/20670",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72d6f7cc-a669-4da1-ac25-10ba7ed15ecd/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72d6f7cc-a669-4da1-ac25-10ba7ed15ecd/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72d6f7cc-a669-4da1-ac25-10ba7ed15ecd/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/72d6f7cc-a669-4da1-ac25-10ba7ed15ecd/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33581/full/631,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33581",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 946
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/20670/1333099065145.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 158
+                    },
+                    "width": 946
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/20670/1333099065145.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 158
+    }
+}

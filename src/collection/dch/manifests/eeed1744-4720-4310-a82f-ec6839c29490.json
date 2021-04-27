@@ -1,0 +1,132 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eeed1744-4720-4310-a82f-ec6839c29490/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:77 資料No.988",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:77 資料No.988"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:77 資料No.988"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1996年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾/彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "芝居の悪役の演技が上手すぎ、興奮した客に殴られる。(読み下し文_括弧なし:蛎売町中島座の芝居ハ此／たび紅皿かけ皿と云ふ狂言を／仕組しが初日より大入にて前名／さだ助とうじ路鳥のすね平といふ奴が／かけ皿を責る所がいかにもにくらしく見／功者連中も大出来だとほめ居しが／当月十五日に仕事師の見物が／土間に居てナンボ狂言でも／ひどい事をしやアがると大ふ／せうちにて彼のすね平に出／立たる中島路鳥が楽屋へ入るを待合せにぎりこぶしを／ふりあげ鳶が鷺をさんざん／に打しとぞ此鷺助が／すね平も余りよく出来／たから此拳を二つ三つ／頂戴したるなるべし／御ひゐきの／ちからこぶしぞ／有がたき／路鳥 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "元記事原文",
+            "value": "蛎殻町中島座の芝居ハ此たび紅皿かけざらと云ふ狂言／を仕組しが初日より大入にて土間さじき賣リ切レ申候の／札をかける程の勢なり国太郎のかけ皿さすが大芝居のお／やま申し分なしと昨日の報知新聞に一文字屋が譽たる如／くなかなか上出來のよし一昨十五日ハ殊の外の大入なり／しが彼の継母（まゝはゝ）が下男のすね平に云ひつけてかけ皿を責（せめ）さ／せる樣子のさも憎く憎くしく実に見るに忍びざる程なり／しが土間に見物して居たるは組の鳶の者が忽まち目を怒／らして何（なん）ぼ狂言でも余（あん）まりな事をしあがるから己（をれ）が承知／しねエと立あがりて舞臺（ぶたい）のうしろへ廻り拳（こぶし）を握り固（かた）めて／彼の下男すね平に出立（いでたち）たる中島路鳥が樂屋へ入（はい）るを待合（まちあ）／ハせ横頬（よこづら）を力に任（まか）せてウンと云ふほど打擲（ぶんなぐ）ツたりしかば／路鳥ハ驚ろいて倒（たを）るゝ処を猶も打（うた）んと拳を振て掛りける／ゆゑコリヤ大変と人々寄り集りて漸やく取り鎮めたりと／ぞ其藝の妙に入りたる遂に假を認めて眞と為すに至る者／も昔より少なからず此鷺助がすね平も余りよく出來たか／ら此拳（こぶし）を一ツ頂戴したるか又ハ此鳶人足も前号に記した／る伊_ﾄの国の芝居で平右衛門の女房が舞臺へ押し上りて／亭主を引き立て連れ歸りし如く只その当人の了見だけの／心底より感発したる物か何れにしても一笑話なり "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0077-0988"
+        },
+        {
+            "label": "Identifier",
+            "value": "eeed1744-4720-4310-a82f-ec6839c29490"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/eeed1744-4720-4310-a82f-ec6839c29490",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/27748",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eeed1744-4720-4310-a82f-ec6839c29490/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eeed1744-4720-4310-a82f-ec6839c29490/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eeed1744-4720-4310-a82f-ec6839c29490/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/eeed1744-4720-4310-a82f-ec6839c29490/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33605/full/632,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33605",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 948
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/27748/1333099077953.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 158
+                    },
+                    "width": 948
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/27748/1333099077953.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 158
+    }
+}

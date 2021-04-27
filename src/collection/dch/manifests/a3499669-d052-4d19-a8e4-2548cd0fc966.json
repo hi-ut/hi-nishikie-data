@@ -1,0 +1,148 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3499669-d052-4d19-a8e4-2548cd0fc966/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "吉原類焼の記（仮）∽046",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "吉原類焼の記（仮）∽046"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "作成日",
+            "value": "1855"
+        },
+        {
+            "label": "資料ID",
+            "value": "046"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "吉原は慶長の頃ハ所ゝにありしが小田原の庄司甚内といふ／者ねがいにより元和三さかい丁辺に二丁四方の地を下されけいせい／町とて遊女御免ありしに明暦三正月十八日本郷丸山の大火ニ／やけ此とき三谷百姓の家をかりこゝにてきやくをとりしなり是／夜見世かり宅の初めなり夫より今の地にうつる江戸町／京町角町さかい丁ふしみ丁是を五丁町といふ其のち／あげやを立是をあげや町といふ又天保十三八月所ゝのおかば所／新吉原に引うつるまた吉原の出火ハ延宝四辰十二月揚や町より明和五／子四月六日江戸丁ヨリ明和八卯四月二十三日あげや町ヨリ明和九辰二月／二十九日目黒行人坂より天明元丑八月晦日江戸丁二丁目より天明四辰／四月二十六日あげや町より天明七未十一月九日角丁より寛政六寅四月二日江戸丁／二丁目ヨリ寛政十二未三月七日龍泉寺より京町へとび火文化九申十一月二十一日／たん介小屋よりとび火文化十三子五月三日京町ヨリ文政七申四月三日京町／二丁目ヨリ天保六未正月二十五日角丁ヨリ天保八酉十月十五日角丁より弘化二／巳十二月五日京町二丁目より安政二十月二日出火とも十七たび焼ルなり／所ゝ仮宅出したる｛以下番付につき略｝ "
+        },
+        {
+            "label": "概要-名称",
+            "value": "吉原類焼の記（仮）"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "安政"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "新関"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0046"
+        },
+        {
+            "label": "Identifier",
+            "value": "a3499669-d052-4d19-a8e4-2548cd0fc966"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/a3499669-d052-4d19-a8e4-2548cd0fc966",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/19484",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3499669-d052-4d19-a8e4-2548cd0fc966/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3499669-d052-4d19-a8e4-2548cd0fc966/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1102,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3499669-d052-4d19-a8e4-2548cd0fc966/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a3499669-d052-4d19-a8e4-2548cd0fc966/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29400/full/800,711/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1102,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29400",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1240
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/19484/1332321320218.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 178,
+                        "width": 200
+                    },
+                    "width": 1240
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/19484/1332321320218.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 178,
+        "width": 200
+    }
+}

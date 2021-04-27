@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e848d0b7-267f-4b41-8031-bea33921c97f/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "近世人物誌やまと新聞付録∽項番:121 資料No.4",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "近世人物誌やまと新聞付録∽項番:121 資料No.4"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:121 資料No.4"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1960年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "近世人物誌やまと新聞付録"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:芳年/彫師:円活刀"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "徳川溶姫君の逸話(読み下し文_括弧なし:徳川溶姫君溶姫君ハ徳川十一代の将軍文恭院殿の御息／女にて加州の太守前田斉泰卿に嫁ぎ給ひし／御方也幕府世盛の頃ハ歴代積威のある所／全国の諸侯は国主外様の別なく自ら臣下の／如くなりしかバ将軍家の御息女にして諸州／太守の許へ婚嫁ありし向をバ御守殿と唱へ／て其扱尋常の奥方の比に非ずをさをさ殿を凌／ぎ給ふ御勢ある習なりしが此加州の太守斉／泰卿と申すハ同家歴代の中三世利常朝臣以来の明君にて御座しけれバ時の覇者の御娘なりとも女ハ嫁して夫に従がふこと先／賢の教当代の習なれバ妻にして夫に勝／る威勢を保つ謂なしとて御祝言の翌日奥／庭にてお鷹狩あり黄昏時に帰りたまひて／御庭先より緑女緑女と高かに呼給ひしにぞ姫ハ／忙しく立出給ひけるに卿にハ橡端に尻打掛て／我等が草鞋解給へと仰られけり此時姫君若し／此事を否ミ給ひて打腹立給ふ御気色あらバ離／別するも苦しからずとの御心なりしとかや然るに／姫もまた尋常の女性にましまさざりしかバ更に／厭ひ給ふ御気色なく承り侍ると莞かにのたまひて／疾くお庭に下立給ひ草鞋を解参せられしかバ卿も深く其御心操に感じ給ひ是より鴛鴦の／御語ひ浅からず膠漆の御契深くして御腹に男女数多の御子生せられ姫御繁昌の間／ハ側室をも置給はざりしとなん卿の御振舞／姫の御心操とりどりの御美事にこそ／文字三昧楼主人題す )"
+        },
+        {
+            "label": "出版者",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0121-0004"
+        },
+        {
+            "label": "Identifier",
+            "value": "e848d0b7-267f-4b41-8031-bea33921c97f"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/e848d0b7-267f-4b41-8031-bea33921c97f",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/19935",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e848d0b7-267f-4b41-8031-bea33921c97f/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e848d0b7-267f-4b41-8031-bea33921c97f/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e848d0b7-267f-4b41-8031-bea33921c97f/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/e848d0b7-267f-4b41-8031-bea33921c97f/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33641/full/630,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33641",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 945
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/19935/1333099097339.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 158
+                    },
+                    "width": 945
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/19935/1333099097339.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 158
+    }
+}

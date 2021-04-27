@@ -1,0 +1,132 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9501bcdb-00bd-421a-b705-46c093e0a244/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "郵便報知新聞∽項番:112 資料No.617",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "郵便報知新聞∽項番:112 資料No.617"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:112 資料No.617"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1966年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "郵便報知新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:大蘇芳年/彫師:彫ヨタ"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "吉原金瓶楼の最後の舞い踊り。(読み下し文_括弧なし:吉原の金瓶楼において往昔乃／おもかげを続けて今様の舞曲／を奏する事ハ愈三月十六日を／以て舞台びらきせしが静江／豊原小太夫佐川静盛紫／左近都右近といづれも当時全／盛の誉れ高き太夫連の二人／づつ一組と定めて烏帽子水干に／大口にて太刀を佩き婆娑■遷／とまひ出たるは竜のミやこ乃乙姫／が波間にわきいでたる風情にて／更に人間界とハ見えさりし／応需／松林伯円張扇の／余間に記す )"
+        },
+        {
+            "label": "出版者",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "元記事原文",
+            "value": "○芳原金瓶棲にて往年の面影を尋ね今様の舞曲を演／する事ハ曾て掲出せし如く愈愈一昨年十六日夜の開筵／にて我曹も料らす招を得て往て見物せしが兼て窃に／心に期せしより甚きらびやかなる事にてありし抑も／正面に新に構えへし舞壹ハ檜木の匂（にほひ）芳しく光一か筆を／揮ひし松の■木枝葉も繁る俗態を變して淡幽雅致に／画きしかハ一しほ奥ゆか敷覚ゆるに先舞出る翁の一／曲長唄連中か清声妙絃花柳壽助か老練の三番叟其態／度も流石に面白し夫より家妓嬌軟（やわらか）の絲肉（いとうた）となり了髪（かむろ）／両人左右の橋上より出て來り婆沙翩遷（ひらひら）たる胡蝶の舞／其舞僅に止ミて再ひ左右に排列し音曲變ると齊しく／せり出す今様舞当時全盛第一と誉も高き静江豊原両／美人烏帽子水干にて出顕せるハ龍（たつ）の都（みやこ）の乙姫か波間／に歩む風情にて優美（ゆうび）と云ふも愚（おろか）なり歌一終（いちだんすみ）して簾下／り次にハ小太夫佐川叉其次に靜に盛紫叉左近都右近／と同しく一曲宛を舞出たり況んや■粧銀燭（うつくしきなりあかり）相映し明／媚を極むる有様ハ実に双眸（まなこ）をして衒耀（きらつか）しめ殆んと／神仙の境中に侶するかと疑ハしむ想ふに該楼若主人平生風流好事の余に出るとも云ふ可き歟此夜他来の看客を一切謝し且晩際迄も降雨頻なるに猶無余儀数百人の来賓ありき "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0112-0617"
+        },
+        {
+            "label": "Identifier",
+            "value": "9501bcdb-00bd-421a-b705-46c093e0a244"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/9501bcdb-00bd-421a-b705-46c093e0a244",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/15116",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9501bcdb-00bd-421a-b705-46c093e0a244/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9501bcdb-00bd-421a-b705-46c093e0a244/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9501bcdb-00bd-421a-b705-46c093e0a244/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9501bcdb-00bd-421a-b705-46c093e0a244/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33635/full/617,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33635",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 926
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/15116/1333099093813.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 154
+                    },
+                    "width": 926
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/15116/1333099093813.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 154
+    }
+}

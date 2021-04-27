@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/70d9b83d-0f9d-4662-ab6f-a87ca1ecfed8/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:49 資料No.892",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:49 資料No.892"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:49 資料No.892"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾,彫師:ホリエイ"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "冷たくなった男の鼻をそぐ(読み下し文_括弧なし:熊谷県管下武州秩父郡久那村農高橋六兵衛と云ふ者の娘に／お節と云ふ者あり同郡般若村の何某へ嫁して子ども二人まである／中なるにただ名のミおせつにて節操もなき水性にやありけん兼て密に／語合男ありて水もらさじと契りしが其男いかに思ひ当る事のありしにや或る／時いつまで斯る事をして世の譏りを受けんも恥かしけれバ此後互ひにフつと思ひ／切りて人の誹りを免かるべしと云ふにお節はもはや吾が身の上に秋風の冷たき／心に替りしかと悔しさの余り忽まち剃刀を取り出し来りて彼の男の鼻を／根本よりグサリとそぎ落したりけるより／大騒と成り遂に大宮支庁の審判を経て／お節は六十日入牢せし上に罰金を課せ／られ男は杖七十にて落着せしが／何処にも鼻をしき次第／なりとて痛く悔し／がりとぞ )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "熊谷県管下武州秩父郡久那村農高橋六兵衛と云う者の／娘にお節（せつ）と云う者あり同郡般若村の何某へ嫁して子ども／二人まである中なるにただ名のみお節にて節操もなき水／性にやありけん兼て密（ひそ）かに語合（かたら）う男ありて水もらさじと／契（ちぎ）りしが其男いかに思い当る事のありしにや或る時いつ／まで斯（かか）る事をして世の譏りを受けんも恥（はづ）かしけれバ此後／互いにフッと思い切りて人の誹（そし）りを免（まぬ）かるべしと云うに／お節ハもはや吾が身の上に秋風の冷（つめ）たき心に替りしかと／悔しさの余り忽まち剃刀（かみそり）を取り出し来りて彼の男の鼻を根本よりグサリとそぎ落したりけるより大騒（さわぎ）と成り遂に／大宮支庁の審判を経てお節ハ六十日入牢せし上に罰金を／課せられ男ハ杖七十にて落着せしが如何にも鼻おしき次／第なりとて痛く悔（くや）しがりしとぞ "
+        },
+        {
+            "label": "Identifier",
+            "value": "70d9b83d-0f9d-4662-ab6f-a87ca1ecfed8"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0049-0892"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/70d9b83d-0f9d-4662-ab6f-a87ca1ecfed8",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8787",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/70d9b83d-0f9d-4662-ab6f-a87ca1ecfed8/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/70d9b83d-0f9d-4662-ab6f-a87ca1ecfed8/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/70d9b83d-0f9d-4662-ab6f-a87ca1ecfed8/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/70d9b83d-0f9d-4662-ab6f-a87ca1ecfed8/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33580/full/556,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33580",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 834
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/8787/1333099064632.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 139
+                    },
+                    "width": 834
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/8787/1333099064632.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 139
+    }
+}

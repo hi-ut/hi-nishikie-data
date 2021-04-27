@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d09dc7ef-87c9-42e1-9486-d3b662e3e50b/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "日々新聞∽項番:167 資料No.28",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "日々新聞∽項番:167 資料No.28"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:167 資料No.28"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1935年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:二代貞信/彫師:忠治"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "おまつが元夫を絞め殺す(読み下し文_括弧なし:東京内籐新宿の内藤久四郎が娘のおまつの／養子太三郎ハ放蕩者ゆへ離縁せしを恨ミ久四郎が／世渡り塩釜明神の贋御札を売る事を蔭／より訴へ出しけり久四郎親子召れて御捌きも／無程相済て後おまつハ新宿の若荷屋にて／娼妓となりしをふいと／太三郎と名染て再び／結ぶ悪縁ハ日毎に／深き泥水の死ると迄／に云かわしおまつの心を引／かんため太三郎ハ明治八年四月二十六日／の夜二人連立ち天竜寺の境内へ行／太三郎もくろみてお松にいふ身の置所／なきゆへに我ハ爰にて死ぬべしと刃物を／出し玉子〓［001］｛殻の左部分｝に仕掛し紅を腹に染め腹切る／体の苦しげなるをお松ハ誠と思ひ親を苦しめし奴なれバと有合手拭にて／太三郎の喉を〆れハ忽ち男ハ死にたる是ぞ塩釜明神に贋を／誓し報なるか其手拭より事顕れお松直に召補たり／花源記 )"
+        },
+        {
+            "label": "出版者",
+            "value": "川伝"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0167-0028"
+        },
+        {
+            "label": "Identifier",
+            "value": "d09dc7ef-87c9-42e1-9486-d3b662e3e50b"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/d09dc7ef-87c9-42e1-9486-d3b662e3e50b",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/21740",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d09dc7ef-87c9-42e1-9486-d3b662e3e50b/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d09dc7ef-87c9-42e1-9486-d3b662e3e50b/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d09dc7ef-87c9-42e1-9486-d3b662e3e50b/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/d09dc7ef-87c9-42e1-9486-d3b662e3e50b/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33666/full/652,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33666",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 978
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/21740/1333099109911.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 163
+                    },
+                    "width": 978
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/21740/1333099109911.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 163
+    }
+}

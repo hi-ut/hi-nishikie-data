@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3940cc14-4510-44f0-b204-fe7fd07791ee/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:15 資料No.592",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:15 資料No.592"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:15 資料No.592"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一恵斎芳幾,彫師:渡辺彫栄 "
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "盲目の夫を養う貞婦(読み下し文_括弧なし:無慙なるかな秋月が娘深雪ハ云。と／戸毎に彳て唄ふなる浄瑠理節ハ／恋ゆゑに泣つぶしたる目なし鳥。／彼が情郎ハ熊沢某。此が夫は／熊次郎。長の眼病に打臥て遂に／瞽者となる不自由。重荷にそへる／幼児等を養ひ兼る／困窮に。袖ハ乾かぬ芝／浦の浪にゆられて／色かえぬ。浜松町の四丁目／なる五番の地所の／借店住。昼ハ走りて／魚を売り。／宵ハ三味／線の／糸／より／も／細き稼ハ芸が身を／たすける程の薄命。／風雨雪夜も厭ハざる赤心天に／感通して。明治七年一月／初旬。褒賞金を賜りしハ。／朝皃日記の節操に数回／まされる貞婦といふべし／転々堂鈍々記 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "東京府賞典第二区三小区芝浜松町四丁目五番借店横田熊次郎妻ひで其方儀熊太郎、長々眼病相煩、終に盲目に相成、稼方不自由ヨリ彌増困窮ニ陥ル迚夫に代リ日夜魚類等相■キ或夜ハ娘あかヲ看護為致置其身ハ幼稚ヲ引連レ暗夜風雨ヲ不厭覚アル三味線弾歩行僅聴聞銭申受細クモ其日ヲ取続キ多年ノ間盲人ヲ労リ貞操相尽ス■奇特ノ儀ニ付為褒美金一円二十五銭被下之 "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0015-0592"
+        },
+        {
+            "label": "Identifier",
+            "value": "3940cc14-4510-44f0-b204-fe7fd07791ee"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/3940cc14-4510-44f0-b204-fe7fd07791ee",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/27683",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3940cc14-4510-44f0-b204-fe7fd07791ee/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3940cc14-4510-44f0-b204-fe7fd07791ee/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3940cc14-4510-44f0-b204-fe7fd07791ee/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/3940cc14-4510-44f0-b204-fe7fd07791ee/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33548/full/639,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33548",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 958
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/27683/1333099047699.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 160
+                    },
+                    "width": 958
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/27683/1333099047699.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 160
+    }
+}

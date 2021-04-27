@@ -1,0 +1,140 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a9372532-0908-4119-8d81-a76569adc38a/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "防火戯詞（仮）∽109",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "防火戯詞（仮）∽109"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "109"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "｛一段目｝江土＠火元之姓本国尾張＠／大火ケンノンノ／大事／大焼軍火出之／一難焼多分火／言之末流地雷／災由井焼失之／後損／屋ケ多号／火元之大焼後称明暦炎-焼次初明和九郎後火前守改-焼為火後守実ハ文化寅之助-焼増-米高粉丸／｛二段｝○かじ出し御門外／文政十二丑年三月火督／おじひ少将／江土火多守焼増／御内室佐久間尾張守火元娘／天上＠青空屋根ナシノ篭＠／拝領＠ニギリメシ＠／酉辰寅丑＠九月産婦病人命ノ御暇＠／｛指物の説明｝二本はしら火の中にならぶ／銀火らしや／押＠地こんや丁つくた島火も＠／御嫡江土粉丸米高／御内室八ツ戸甲斐守喰増娘／｛指物の説明｝いいつらの皮かぶり／一本鼻の先にたつ／駕＠もんせきかじの茶五ツ前／時炎上／三月霊岸島の人死船町の焼魚／土蔵の火入高直の草鞋／柳原の時変昼中御救小屋夜け間男／［三段目］火老／焼中阿武内／逃迷三郎／命野内記／屋ツ戸逃太／壹石落内／側用心／大橋残ツ太／用人／飛火隼人／目ツ谷啓内／十時昼弥／明方喜右衛門／芝口留太郎／籾蔵矢毛太／火掛り五九郎／高水丸太／三座焼太夫／附／火消越前／添役／橋落安房手之助／逃田沙汰郎／御城使／金銀入ル兵衛／類焼宗／火のつきじ　本願寺／類焼高江戸下町一円焼之どふしやう小屋掛之住主／明暦三酉年正月江土大変大火以来百七年目ニ当り明和九／辰年二月二十九日目黒行人坂ヨリ大火又三十五年後文化／三寅年三月四日高輪牛町ヨリ大火又二十四年後文政／十二丑年三月二十一日神田佐久間町ヨリ及大火／当時　江土火多守以後禁之／ "
+        },
+        {
+            "label": "概要-名称",
+            "value": "防火戯詞（仮）"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "田中 "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0109"
+        },
+        {
+            "label": "Identifier",
+            "value": "a9372532-0908-4119-8d81-a76569adc38a"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/a9372532-0908-4119-8d81-a76569adc38a",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11220",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a9372532-0908-4119-8d81-a76569adc38a/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a9372532-0908-4119-8d81-a76569adc38a/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1102,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a9372532-0908-4119-8d81-a76569adc38a/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/a9372532-0908-4119-8d81-a76569adc38a/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29456/full/800,679/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1102,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29456",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1298
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/11220/1332321359738.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 170,
+                        "width": 200
+                    },
+                    "width": 1298
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/11220/1332321359738.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 170,
+        "width": 200
+    }
+}

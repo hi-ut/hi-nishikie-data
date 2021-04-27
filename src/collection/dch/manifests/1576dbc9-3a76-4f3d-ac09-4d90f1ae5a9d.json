@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1576dbc9-3a76-4f3d-ac09-4d90f1ae5a9d/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞 ∽項番:48 資料No.885",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞 ∽項番:48 資料No.885"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:48 資料No.885"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞 "
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一恵斎芳幾,彫師: 渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "婆々同士の焼餅喧嘩(読み下し文_括弧なし:きのうハけふの昔々、洗濯ならぬ仙台にちよつきりやられた雀の子、飛でもない事／しでかした、爺イと婆アとあつたとサ、其また近所にひとり住む狸婆アがこつそりと、／此爺さんへ狸汁、一ぱゐ喰せる居膳も、竟にハ耻を柿のたねと、知らぬ皴手を握り飯に、／損得なしを舌切雀、／夫からチヨツチヨツと御宿を／たづね、枯木に花を咲せたる、／灰ならねども本妻の、けんどん婆アの／目には入り、ならす歯がみのかちかち山、／背中の柴ほど胸をバ焦し、蕃椒味噌の辛らき／目に、あはさば夫でよい黍団子と、日本一の趣向を／考へお供につれる現在の娘も心ハ鬼ヶ島、納戸の／岩屋へ忍び入り、起んとするをどつさりと、重い／葛籠が臼ほどな、尻をのせかけ動かせず、／其間に爺イは何処へやら、かくれかさねた／夜着はねのけ、隠れ蓑の毛引むしり、／児槌打出す宝物、手に入りたりと笑栗の、／毬もの作りの木太刀をバ、洞の奥まで押／込で、どうどう敵を仕とめける、夫にて／いちがさかえたとハ、荳馬鹿馬鹿／しき噺ならずや。／霞亭乙湖述 )"
+        },
+        {
+            "label": "出版者",
+            "value": "辻文"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "東京日日新聞第八百八十五号 ○仙台の八番町に名は何とか云ひけん久しく住み来れる小商人あり今年すでに五十五才にて妻もやや同じ年ばへなり娘は二十ばかりなりけるが年ごろ睦ましく過けるに近頃其男ふと近辺に住める六十三才に成る老婦に馴れ染めて数多たび通ひけれバその妻遂にこれを聞知りて甚ねたき事かな如何にもして此悔しさを晴さんと思ひ或る夜その娘と云ひ合ハせ共に彼の老婦が家に至りて酔ひ臥したる夜着の上に馬乗りに跨りて母子二人して老婦が陰門の毛を散々に引きむしり掻き破りて傷つけなどしけるが尚も腹や居ゑ兼けん娘が持ち来り置し栗殻を陰門へ深く押し入れて打ち笑ひツツ立ち去りけれバ翌日彼の老婦が方より此由を訴へ出しかバ母子ともに召捕られにけりとて東京日吉町の者にて仙台一番町の一力亭に寄留せる芸妓より親しき人の許へ書き贈りたるよし "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0048-0885"
+        },
+        {
+            "label": "Identifier",
+            "value": "1576dbc9-3a76-4f3d-ac09-4d90f1ae5a9d"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/1576dbc9-3a76-4f3d-ac09-4d90f1ae5a9d",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/18061",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1576dbc9-3a76-4f3d-ac09-4d90f1ae5a9d/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1576dbc9-3a76-4f3d-ac09-4d90f1ae5a9d/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1576dbc9-3a76-4f3d-ac09-4d90f1ae5a9d/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/1576dbc9-3a76-4f3d-ac09-4d90f1ae5a9d/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33579/full/620,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33579",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 930
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/18061/1333099064117.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 155
+                    },
+                    "width": 930
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/18061/1333099064117.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 155
+    }
+}

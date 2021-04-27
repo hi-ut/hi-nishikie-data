@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5cc48a39-66c7-40c5-8760-ee1e1e1d325f/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:10 資料No.428",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:10 資料No.428"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:10 資料No.428"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一恵斎芳幾,彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "越後にも有情の女あり(読み下し文_括弧なし:越後の女子ハ其情雪と共に淡く帷子地と共に薄けれバ／古来より多く娼妓を此国に需むと然るに世移り物／換り今ハ該国狭郭の芸娼妓も真情を以て客に遇／する考なしとせず茲に新潟港長浜某の雇ひ芸妓たいと／云ふ者千金を擲つ豪客を厭ひ丁稚あがり一青年に／恋着し盆踊りの夜に紛れ住居馴れたる新潟を跡／白浪と遁走し弥彦を跡に寺泊り結赤縄の出雲崎よしや尼瀬／となれバとて離れハせじと取かわす此手拍や／拍崎早往々て名にしおふ不孝の罪の／親しらず越て加賀路もいつか過幾／夜を旅に伏見より浪花にしばし／吟行うち座して食へバ山ならで／固より寒き懐尽とや詮方も泣／ばかり死して未来で逢見んと互ひの運の／天満橋既に入水を決せしと道行く／人に介抱られたいハ再度苦海の／勤め男ハやがて人力車稼ど追は／るる困難長濱氏に聞へしかバ／車夫との縁を曳はなし古郷へ／帰り錦の帯しめて又もや河竹の／浮し勉めをなせりとぞ／山々亭有人記 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "○新瀉県痴人の件從來越後の女子ハ淡情なれハ娼妓／となすに便なりとて身價（ミノシロ）を得る亦／多し故に新瀉邉狹邪（イロザト）の婦女ハ眞情／を以て客に遇する者少（マレ）なり爰に■／濱のだいといへる妓曾て千金を擲／つの豪客（ダイジン）を厭ひ丁稚（デツチ）アガリの一青／年に戀着し二人新瀉を走り混華に／至りしに覊旅（タビ）のそら盤纏（ロ■ウ）つき盡て／詮方なく死を決し■天満橋より入水せんとせしが人に止められ再ひ／媚（コビ）を■（■■）くの妓となり人車牽（ジンリキヒキ）となり／たる彼の丁稚を■遇せしとぞ老妓の青年（ワカモノ）男子に■戀なす是亦淡中の／濃にて概視（ヒトツユミル）すべからさる者也又同／県下の商小田屋伝次郎ハ身代恰も／四五千金の融通なる者にて妻子あ／る身なり加賀屋でんが■へ娼妓既／に解放（カイハウ）なりし者と馴染（ナシミ）し世のキヅ／ナにほだされ比翼の語らひ意の如／くならさるを恨みさバかりの家産／を擲ち手を携へて遁逃せり至痴の／愚人にして妻子を顧みさるハ苅か／やが道心の故にもあらす院本中希／に如斯きの脚足（シツシ）を見る開化の今日／に容れられさる痴漢ならすや "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0010-0428"
+        },
+        {
+            "label": "Identifier",
+            "value": "5cc48a39-66c7-40c5-8760-ee1e1e1d325f"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/5cc48a39-66c7-40c5-8760-ee1e1e1d325f",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17727",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5cc48a39-66c7-40c5-8760-ee1e1e1d325f/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5cc48a39-66c7-40c5-8760-ee1e1e1d325f/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5cc48a39-66c7-40c5-8760-ee1e1e1d325f/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5cc48a39-66c7-40c5-8760-ee1e1e1d325f/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33543/full/631,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33543",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 947
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/17727/1333099044809.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 158
+                    },
+                    "width": 947
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/17727/1333099044809.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 158
+    }
+}

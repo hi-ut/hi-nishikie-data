@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64404440-3b22-4937-8e73-c530559e9765/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:53 資料No.913",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:53 資料No.913"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:53 資料No.913"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾,彫師:ホリ栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "盗人を捕えてみれば我が子なり(読み下し文_括弧なし:肥前国佐賀へ出張し／ゐたりし小野組の手代、塩谷麟蔵／長谷部逸三、田中与三郎の三名／ハ、自己が驕奢に過分なる私債を負て／窘迫らるる、折から閉店したりしかバ、／償却の術いよいよ尽果、有金千／円余りを掠め、夜に乗て脱走し、兵庫県下／福原町の／妓楼に／数日遊び／居て、多分の／散財したりしを、／兼て捜索／ある者なれバ、甲戌十二月三十日忽ち捕縛せられたり、斯く泥棒を、餌置て／貨幣の衛をさせたりし、小野氏が瓦解ハ理ならずや、よく人口膾火る／宗鑑が句に、／盗人をとらえてミれバ／吾子／なり／転々堂主人酔録 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "佐賀県令北島氏より小野組出店手代脱走の者就縛に／付き御届の略当県下へ出店したる小野組手代の内鹽谷麟蔵長谷部逸三／田中与三郎の三人去年十二月十二日の夜脱走に及び候段／頭取の者より届出候問夫ニ行方捜索の折から兵庫県下福／原町妓樓に於て不審の散財いたす者これあり捕縛の上糺／問せし処尚人ども多分の私債なれ有り究迫の折りから閉店／に相成償遂の衛これ無きより有り合せの金子相掠め脱走／に及びたる段を申し立て尚金千弐百円所持いたし居候旨／を以て同月三十日兵庫県より実否問ひ合ハせ越し候に付／き頭取の者を呼び出し右金員の出処を相糺候へども何分／判然と致さず別紙の通りにて甚ハだ不分明に付き尚取り／糺し方申し付け置候へども取り敢えず此段御届け旁ニ別／紙相添上申仕候なり云々 "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0053-0913"
+        },
+        {
+            "label": "Identifier",
+            "value": "64404440-3b22-4937-8e73-c530559e9765"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/64404440-3b22-4937-8e73-c530559e9765",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/22339",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64404440-3b22-4937-8e73-c530559e9765/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64404440-3b22-4937-8e73-c530559e9765/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64404440-3b22-4937-8e73-c530559e9765/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/64404440-3b22-4937-8e73-c530559e9765/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33584/full/618,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33584",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 927
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/22339/1333099066760.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 155
+                    },
+                    "width": 927
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/22339/1333099066760.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 155
+    }
+}

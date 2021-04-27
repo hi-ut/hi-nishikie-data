@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df9bab8d-d52a-46fb-9fdd-352fc080817f/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:27 資料No.752",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:27 資料No.752"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:27 資料No.752"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一惠斎芳幾,彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "征台戦争。日本、台湾に勝利す。(読み下し文_括弧なし:台湾の諸／蕃悉く／吾が軍門／に降れる／中に。獨り牡丹社／の土人のミ遠く山林／深莽の裡に逃入て出／ざりしを。全軍大挙して三方より／進撃。其山々を焼立ければ彼れ身を潜る地なく／して。前に帰順の酋長等を媒妁とし。紀元二千五百／三十四年七月第一日本営に来つて罪を謝し／真に降伏したりしより。藩地いたつて／靜謐なり。這征蛮ハ此島の開化に／進める初階といふべし／転々堂鈍々録 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "「台湾新報25号」台湾征戦の状景ハ既に昨日述ぶる所の如く諸藩悉く皆降伏して罪を轅門に謝しけれバ各酋長どもへハ日章の国旗を賜ハり以て其憑拠と為さしむ是に依て蕃地悉とく平定し一同靖粛に帰し生熟の蕃民みな各々安堵の体あり是れ誠に我が　皇国の威武を海外万国に輝かすべき盛挙にして我等億兆の人民歓喜踊躍して国家の為に慶賀すべき一大美事ならずや然るに予頃日蕃地より帰りしに諸友人陸続として来り訪ふ皆云ふ台湾の事ハ如何ありしぞ東京にてハ評判甚だ悪しかりし故に君が為に大いに心配せしなり能く無難にて帰り玉ひしよなど云ふ者多し夫れハ如何なる訳ぞと問へバ何れも云ふ支那より五万の兵を出し軍艦二十五艘を以て台湾に押しよせ現下我が軍と大戦争中なり或ハ支那兵船我が軍艦を取り巻て■かさずなど云ふ風聞あり或ハ我が兵丁等多く牡丹生蕃に欺き殺さる或ハ蕃人草木中に伏し隠れ居て毒箭を発す之レに当る者一ツも生きる者無し或ハ瘴癘の気に侵されて兵士過半死亡せり或ハ毒蛇ありて人を喰ひ殺す我が軍人多く之れが為に命を■（おと）せり或ハ牡丹人体幹長大にして能く人を取り喰ふ其猛勇当るべからずと其甚しきに至りてハ西郷都督も既に蕃人の手に死せり等種々の浮説現下東京市中に紛々たりし事と知られたり抑々如何なる愚人の斯かる妖■を捏造して世人を眩■（■■■）せんとする事にや欧美諸州及び支那国等の人民ハ一言一行も皆各々其国家の為にせん事を欲せざる者なし然るに如何なれバ我が東方独立万世一統の神国殊に■下に在りて文明開化の聖恩に沐浴せる人民にして斯く苦々しき不良の心を持つならんと歎息せり此頃大阪京都にも数日逗留せしが東京市中程の浮説ハ聞き及バざりし "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0027-0752"
+        },
+        {
+            "label": "Identifier",
+            "value": "df9bab8d-d52a-46fb-9fdd-352fc080817f"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/df9bab8d-d52a-46fb-9fdd-352fc080817f",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/16783",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df9bab8d-d52a-46fb-9fdd-352fc080817f/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df9bab8d-d52a-46fb-9fdd-352fc080817f/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df9bab8d-d52a-46fb-9fdd-352fc080817f/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/df9bab8d-d52a-46fb-9fdd-352fc080817f/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33560/full/611,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33560",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 916
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/16783/1333099054093.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 153
+                    },
+                    "width": 916
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/16783/1333099054093.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 153
+    }
+}

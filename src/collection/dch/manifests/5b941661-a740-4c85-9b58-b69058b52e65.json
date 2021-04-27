@@ -1,0 +1,148 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b941661-a740-4c85-9b58-b69058b52e65/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "江戸四谷辺大火（仮）∽041",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "江戸四谷辺大火（仮）∽041"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "作成日",
+            "value": "1851"
+        },
+        {
+            "label": "資料ID",
+            "value": "041"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "頃は嘉永四亥四月三日昼九ツ時頃より四ツ谷塩丁／横町辺より出火いたし折節北風夥敷して／同ひしや横丁浄運寺横町しほ丁二丁目三丁目／南かハ不残やける大木戸田安侯御下屋敷太田様／残る内藤様御￥下敷（［ママ］）のこるそれより飛いたし内藤新宿／中町下丁同所八分通りやける尤上丁のこる一口は／忍町同おし￥■■(［虫喰］)横丁御旗元方此外御武家方／あまたやける岸豊次郎様火中ニてのこる南寺／町此辺寺々焼る法忍寺残る此辺諸御武家御家敷／あまたやける信濃殿丁岡部様御屋敷ニて火とまる／向側御屋敷やける右馬殿横丁諸御大名御下／屋敷同所つづき長安寺門前丁屋やける大番／御組屋敷同大番町御旗本御武家方此辺横たて／町つづき不残やける此外諸御組屋敷御直参之／御組衆御役宅あまたやける青山三筋丁御組屋敷ニて止る／又一方は伝馬町新三丁目船板よこ町同所平力／門横丁同弐丁めあらき横丁同壱丁目やける同所／新堀江町残る伊賀町少々やける向側天王よこ丁／天王社并ニ寺院此辺残る宝蔵寺横丁少々残る／是より西風はげ敷麹丁十三丁め同よこ／同十弐丁目横町四谷御たんす町少々やける／同所伝馬町一丁目新道横たて不残焼る／向がハ御医師御武家屋敷やける天徳寺門前丁／替地少々やける尾州様御下屋敷松平宮内様／残る四ツ谷御門外御堀端通り町家不残焼る麹丁ハ／十一町め俗ニ竹丁といふ四ツ谷坂町此辺残る／同処御ほり端通りしほ丁一丁目御医師千葉／先生残る此時漸々其夜五ツ時ニ火鎮り人々／あんどの思ひをなし火の用慎こそ肝要也／▲凡焼失之場所＠横三町又ハ五丁余 ￥堅（［ママ］）御堀端より火先迄三十一丁余＠／ "
+        },
+        {
+            "label": "概要-名称",
+            "value": "江戸四谷辺大火（仮）"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "嘉永"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "田中 "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0041"
+        },
+        {
+            "label": "Identifier",
+            "value": "5b941661-a740-4c85-9b58-b69058b52e65"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/5b941661-a740-4c85-9b58-b69058b52e65",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/20598",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b941661-a740-4c85-9b58-b69058b52e65/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b941661-a740-4c85-9b58-b69058b52e65/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 878,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b941661-a740-4c85-9b58-b69058b52e65/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/5b941661-a740-4c85-9b58-b69058b52e65/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29395/full/800,451/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 878,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29395",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1559
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/20598/1332321316950.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 113,
+                        "width": 200
+                    },
+                    "width": 1559
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/20598/1332321316950.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 113,
+        "width": 200
+    }
+}

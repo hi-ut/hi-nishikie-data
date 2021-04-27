@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/108fc0aa-6bb7-4869-b74b-6496f1021d8b/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:6 資料No.111",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:6 資料No.111"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:6 資料No.111"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:落合芳幾,彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "関取火中に電柱（電信）を守る(読み下し文_括弧なし:東／海道／沼津宿／浅間社内に／興行せる相撲名／におふ東京の関取多／人数旅店に満ち初日／遅しと待暁仲の街より火／を失し数町の外に蔓炎す／此地元来海岸にて井水乏／しき故を以て消防十分ならざる／を多勢の力士等墳発して樽／と桶とを手送りに香貴の水／を運びて百方尽力する折しも掛け／わたしたる雷線の柱も須て／燃んとす時に臨んで／両大関名も火かゝりに因ある境川にハ／大纒等しく火中に飛入て家を／倒し柱を抜き猛火をしづめ／電機を救ひし鬼神を／欺く怪力ハ開化を助くる／力士等が／大功業と／いふべきのミ／転々堂主人記 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "本月三日暁第三字頃駿州沼津駅仲／町福嶋屋と言る藍問屋より出火なし／方八九町戸数二百戸余類焼せり本日／風あらずと雖　も此辺の人民消防／精しからざる故延焼此に至ると此／時駅中浅間の社地に角力の興行あ／りしが旅泊の力士消防の助力致す／べくゆえ掛合たるに人足及び戸長伝／信機掛りよりも頼ミに付角力一同／境川大纏小柳等をはじめ鼓舞し／て本陣の門の柱を引抜或ひハ大丸／太を以て扉を崩し其働き恰も鬼／神のごとく大関斯の如くなれバ其／以下争奮ざらん四斗樽を以て川水／を汲ミ各是を手送りにす原来此地／ハ水ニ不弁の所と雖も今力士等ゲ勉／励にて猛火忽ち鎮まりけれバ土人／力士を敬する事大方ならずと駿東／より来たりし人の話なり "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0006-0111"
+        },
+        {
+            "label": "Identifier",
+            "value": "108fc0aa-6bb7-4869-b74b-6496f1021d8b"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/108fc0aa-6bb7-4869-b74b-6496f1021d8b",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/28563",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/108fc0aa-6bb7-4869-b74b-6496f1021d8b/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/108fc0aa-6bb7-4869-b74b-6496f1021d8b/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/108fc0aa-6bb7-4869-b74b-6496f1021d8b/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/108fc0aa-6bb7-4869-b74b-6496f1021d8b/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33539/full/626,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33539",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 939
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/28563/1333099042603.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 157
+                    },
+                    "width": 939
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/28563/1333099042603.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 157
+    }
+}

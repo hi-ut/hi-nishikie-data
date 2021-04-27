@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15348960-1d41-40cd-b008-f49fc8a69f05/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:62 資料No.934",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:62 資料No.934"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:62 資料No.934"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾,"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "ふられ男、遊女を傷つけて自殺 (読み下し文_括弧なし:意より／情を生じ／情凝て煩／悩を生ず／煩悩より愚痴を生じ是を名づけて妄想と／いふ妄想の中に色情を生ず／此色情に四つあり互に思ひ／慕ハれて天にあらバ比翼の／鳥地に有らバ連理の枝と／玄宗真似を真情と言ひ去日／の情人ハ艮時の仇其日其日の風次第／ハ是そ所謂薄情にて不粋な人でも黄金さへあれバと枕の下へやる手さへ握て掛るを慾情とす痴情ハ是と事かわり先方で何とも思ハぬを自分ではまる恋の淵行徳／舩の乗子なる早川伊太良と呼ぶ男あり新吉原龍ヶ崎屋の娼妓かしくと言へるに馴染て百夜ハ／愚千夜かけて通へど先方ハ空吹く風本年二月上旬かた例の如く遊宴に来が如何なる事故のあり／けるにや髪剃をもて疵を負せ其身も自殺なしけるよし是又痴情にせまりし事歟将外に／子細ありける事歟記者も知らず唯世の好男子の為に誌て後世の／戒に備ふ／待乳山麓／温克堂龍吟誌 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "同日吉原の遊女屋龍ケ崎かたへ行徳の船乗り早川伊太／郎と云ふもの來り遊びしが素より死ぬる氣で來りし者と／見え懐中に隠し持ちたる剃刀（かみそり）にて不意に娼女かしくに疵を／負ハせ自分も續いて腹を切り咽喉を突きて絶息せり思ふ／に是ハ命やハ何ぞハ露のあだ物をなどと戀ゆゑにハ身を／も捨る氣に成りたる優しき物語りにハ有るまじ必らず別／に事故あるならん請ふ他日の水落石出を待つべし "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0062-0934"
+        },
+        {
+            "label": "Identifier",
+            "value": "15348960-1d41-40cd-b008-f49fc8a69f05"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/15348960-1d41-40cd-b008-f49fc8a69f05",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/23521",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15348960-1d41-40cd-b008-f49fc8a69f05/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15348960-1d41-40cd-b008-f49fc8a69f05/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15348960-1d41-40cd-b008-f49fc8a69f05/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/15348960-1d41-40cd-b008-f49fc8a69f05/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33591/full/587,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33591",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 880
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/23521/1333099070441.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 147
+                    },
+                    "width": 880
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/23521/1333099070441.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 147
+    }
+}

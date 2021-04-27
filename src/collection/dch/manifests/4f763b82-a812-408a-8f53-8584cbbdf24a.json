@@ -1,0 +1,132 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f763b82-a812-408a-8f53-8584cbbdf24a/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:91 資料No.1052",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:91 資料No.1052"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:91 資料No.1052"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1983年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一恵斎芳幾/彫師:彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "浜松の稀代の孝行息子。 (読み下し文_括弧なし:親を愛／するは子たる／者の常情なり／といへども。亦／あり難き此／孝子が年齢ハ四十に及べども。小児の／ごとく父を慕ひ起臥飲食なにくれと心を／盡してよくつかへ。／閑隙ある／日は／脊におふて。東台。墨陀の花に／遊びて。親の心を悦ばし。幾十かえりも変りなきハ浜松／県の貫属士族。田中金吾と／いふ者にて。輦下に久しく／寄留して芳名世上に／高くきこゆ木挽街の隠士／轉々堂主人録 )"
+        },
+        {
+            "label": "出版者",
+            "value": "錦昇堂"
+        },
+        {
+            "label": "元記事原文",
+            "value": "華族吉井氏の邸内に寄留する浜松県士族田中金吾ハ今年（ことし）四十に及／べとも父を幕ふこと小■の如く父の起（おき）臥（ふし）より食物など何事に寄らず心／を盡し職業の隙にハ父を背負（せお）ひて浅草の観音或（ある）ひハ墨蛇川などへ連／れ行き其心を悦バせ孝養を盡しけるに見る人も聞く者も関心せざる／ハ無（なか）りしが遂に行く道の逃（のが）れがたく去ル五月の中ごろ金吾が父ハ／老木の枯るるが如く病とも無くて黄泉（よ■■）に趣きしかバ金吾が愁傷大か／たならず朝ゆふ位牌の前に向ひ生（いき）たる人に物云ふ如く色々の咄しな／どして茶飯を供へなどする様ハ是ぞ誠に在すが如くとやらん云へる／なるべし地主吉井氏ハ節倹なる人なれども金吾が至孝を感じて金子／若干を恵（めぐ）まれしと云へり "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0091-1052"
+        },
+        {
+            "label": "Identifier",
+            "value": "4f763b82-a812-408a-8f53-8584cbbdf24a"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/4f763b82-a812-408a-8f53-8584cbbdf24a",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/11574",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f763b82-a812-408a-8f53-8584cbbdf24a/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f763b82-a812-408a-8f53-8584cbbdf24a/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f763b82-a812-408a-8f53-8584cbbdf24a/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/4f763b82-a812-408a-8f53-8584cbbdf24a/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33618/full/630,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33618",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 945
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/11574/1333099084964.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 158
+                    },
+                    "width": 945
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/11574/1333099084964.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 158
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/166582cd-89e0-42ec-ad35-90a0aad40210/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "錦画百事新聞∽項番:168 資料No.84",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "錦画百事新聞∽項番:168 資料No.84"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:168 資料No.84"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1934年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "錦画百事新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:貞信/彫師:"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "巡査が売春摘発。(読み下し文_括弧なし:女房盛りを白歯の嶋田僅かの代賃を／あてにして賎しき情の隠し売ハマアどふした心で／ござりませう親も夫も泥水へ引出む悪魔のわざか晴れて廓／の全盛でさへ苦界といふでハござりませんか大坂府下北平野／町壱丁目宿屋■津はる町／御年方にて見つけられました／淫売ハ／「天王寺村山本善之助娘ゑい十九年「■津丁二番町山下捨松／娘たね二十壱年「空堀町宮内勇造娘こま十五年「日本橋筋／五丁目松田茂吉妻こよ二十年「南本町四丁目山田文吉妻なを／「日本橋五丁目平井国松妹千代十六年／「日本橋五丁目小川巳之助妻やす三十五年／「内本町三丁目浦谷百造娘ふね十九年／和歌山県紀伊国浅本町■辰右衛門／娘■とみ二十五年／このおのおのハ穢を世間へふるう／御連中なるをお巡り梅木／さんが勉強て捕へられ／恥かしい事で罰を請うよりもちつと／外の稼もありそふな物でごさります縫ばりの／手一ひとつにて親夫への孝心貞操は是まで新／聞に手本もござります学校の／子供衆がたに読んで／おもらいなされ／ませ )"
+        },
+        {
+            "label": "Identifier",
+            "value": "166582cd-89e0-42ec-ad35-90a0aad40210"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0168-0084"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/166582cd-89e0-42ec-ad35-90a0aad40210",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/9020",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/166582cd-89e0-42ec-ad35-90a0aad40210/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/166582cd-89e0-42ec-ad35-90a0aad40210/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1102,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/166582cd-89e0-42ec-ad35-90a0aad40210/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/166582cd-89e0-42ec-ad35-90a0aad40210/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33667/full/800,697/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1102,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33667",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1264
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/9020/1333099110767.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 174,
+                        "width": 200
+                    },
+                    "width": 1264
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/9020/1333099110767.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 174,
+        "width": 200
+    }
+}

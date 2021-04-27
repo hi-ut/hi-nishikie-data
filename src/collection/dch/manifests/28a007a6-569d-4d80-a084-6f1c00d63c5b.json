@@ -1,0 +1,148 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/28a007a6-569d-4d80-a084-6f1c00d63c5b/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "焼場独案内∽029",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "焼場独案内∽029"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "作成日",
+            "value": "1849"
+        },
+        {
+            "label": "資料ID",
+            "value": "029"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "￥焼場独案内（ひとりあんない）／仁義礼智忠信孝悌の八ツは／しばしもわするへからずわけて孝行ハ／善道のつかさ也夫人として孝なきハ人に／あらず江戸おもて出火とききくにくに／在々親兄弟へさつそくつげしらせべき／こと第一也時に嘉永二酉八月二十四日夜／九時内神田弁けいばしより出火して同所／よこ立のこらず松しだ丁小いづミ町／久右衛門丁四丁目代地やまと丁岩井丁／上納地やける北がハのこる也同所どうゆふ／やしきかど此辺所々一番二ばん五ばん八番／消留元柳原丁六丁目十番組消留元岩／井丁かめい丁北側のこる南方五番ふか川組ニて／けし留小でんま丁一丁目二丁目三丁目木戸際ニて／一番六番消留油丁通り東がハのこる西がハ一ばん／五番本所組ニて消留はたご丁西がハやける東がハ大丸のこる／同新道中程五番消ほり留焼田所丁西がハ焼東がハのこる六番／本所組ニて新大坂丁東側弥兵衛丁住よし丁のこる大さか丁西がハ／やける銀座のこるやしき前通一番二番八番組ニて消留夫より／甚左衛門丁両かハやける牧野河内守様御中やしきけし留小網丁／壱丁目よこ丁きど際ニ番組けし留貝じやくし店半焼也又一口ハ／らうやしきのこるうら門通やくし堂まへ小伝馬丁中程一番組／二番組九番消留大でんま丁二丁目木戸ぎハ一番二番ニて消留また／一口は人形丁通り杉のもり新道同所いなりの社やける乗物丁／新材木丁はせ川丁西かハやける木戸際ニて六番組消留る三光／じんミち九番組消留三光いなりのこる庄助やしきさかい丁／ふきや丁よし丁やけるいなかしるこのこるがく屋新ミちやける／ふきや丁川岸通り一ばん組二番ぐミニて消とめるおやぢばし／へんのこる二十四日の夜より二十五日の五ツ半すぎまで凡六時の／間に百万の屋舎ことごとく灰と成り七珎万宝一へんの／煙と変ずアア恐れてもおそるべきハ火也またなくて／かなハざる物なれバ数多心がけ気を付べしいささかのことより／大火事となる必ゆだんすべからず火の用心／火の用心／ "
+        },
+        {
+            "label": "概要-名称",
+            "value": "焼場独案内"
+        },
+        {
+            "label": "成立年代-元号",
+            "value": "嘉永"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "田中 "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0029"
+        },
+        {
+            "label": "Identifier",
+            "value": "28a007a6-569d-4d80-a084-6f1c00d63c5b"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/28a007a6-569d-4d80-a084-6f1c00d63c5b",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/10211",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/28a007a6-569d-4d80-a084-6f1c00d63c5b/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/28a007a6-569d-4d80-a084-6f1c00d63c5b/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1102,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/28a007a6-569d-4d80-a084-6f1c00d63c5b/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/28a007a6-569d-4d80-a084-6f1c00d63c5b/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29384/full/800,657/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1102,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/29384",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1342
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/10211/1332321309102.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 164,
+                        "width": 200
+                    },
+                    "width": 1342
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/10211/1332321309102.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 164,
+        "width": 200
+    }
+}

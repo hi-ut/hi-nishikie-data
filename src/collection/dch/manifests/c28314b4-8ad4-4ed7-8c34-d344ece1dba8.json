@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c28314b4-8ad4-4ed7-8c34-d344ece1dba8/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "郵便報知新聞∽項番:102 資料No.481",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "郵便報知新聞∽項番:102 資料No.481"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:102 資料No.481"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1974年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "郵便報知新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:大蘇芳年/彫師:彫ヨタ"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "老人の懸想に恥をかかせぬ風流芸者(読み下し文_括弧なし:深川の唄妓小三ハ井上文雄翁の弟子にて／歌も達吟手迹も美事なりけれバ大に時に／誉ありし其妹のおいろも姉に続て此二芸／を能くする上に心ざまやさしく正しけれバすゑ／掛て頼む男の外更に移せる香をだにせ／ざりしを或る時去る大家の隠居の骸も／歌も腰折なるが人目を忍びて一葉の短冊／をいろが袂に入けれバ何やらんと見てけるに／ますらをが命にかけて思ふかな／君がひとよの露のなさけに／とありしかバいろハ呆れ果たりしが年寄／に赤愧かかせんもさすがに思ひその端に／一枝梨花壓［原文に返り点二あり］海棠［原文には返り点一あり］余所の見る目も／いかならんと認めて戻せしとそ／松林伯円記 )"
+        },
+        {
+            "label": "出版者",
+            "value": "錦昇堂"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0102-0481"
+        },
+        {
+            "label": "Identifier",
+            "value": "c28314b4-8ad4-4ed7-8c34-d344ece1dba8"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/c28314b4-8ad4-4ed7-8c34-d344ece1dba8",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/15234",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c28314b4-8ad4-4ed7-8c34-d344ece1dba8/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c28314b4-8ad4-4ed7-8c34-d344ece1dba8/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c28314b4-8ad4-4ed7-8c34-d344ece1dba8/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/c28314b4-8ad4-4ed7-8c34-d344ece1dba8/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33627/full/619,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33627",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 928
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/15234/1333099089650.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 155
+                    },
+                    "width": 928
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/15234/1333099089650.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 155
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/beaa7124-bbb0-4556-9d8b-23f77dc8ff37/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "地口十一種（仮）∽118",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "地口十一種（仮）∽118"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "118"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "ばたばた文して申上まいらせ候すぎし／二日の初会（しよくわい）よりゆりゆりと御免に／がたり家蔵こハし幾地のうへ／ばなしわたしが田町以打（うち）あかし／衣紋（ゑもん）づゝみのほれこんで旦那（だんな）の／手まへ■かミ様のるすを付こみ／ぐらぐらと十月一はいかよひつめ／まいらせ候へどもおまゑハ狐（きつね）に／馬道で逃（にげ）かくれたり野宿（のじゆく）をなされ／大道中へ伏（ふし）ミ丁どつちの角（すミ）丁たづね／ても私（わたし）がゆると逃るのハ鯰（なまづ）るい身乃／妨らぐらと御さげすミもあらん／なれど水道尻（すいどうじり）をあび候江戸ツ丁にハなく／候へ共かしまでハ名を揚屋（あげや）丁きのふ／京町さとなれて地もぐりぶしのふるひ／声（こへ）をだし行候へバかたい石垣（がき）蔵（くら）乃／壁（かべ）鬼（おに）のやうなる瓦（かハら）まで落（おつこち）に成（なり）候に／御まへ様ハつれなき御事ばかり烏（からす）の／仲の丁ハあれどわするゝ隙（ひま）ハ御ざなく候ゆへ／火事のやうに燃立（もえたつ）おもひけし度候まゝ／土蔵（どぞ）土蔵こしまき迄御取崩（とりくづ）し被成色（いろ）よき／御返事ねかひまいらせ候なまづハぐわらぐわら／ゆり度おかしく／かしこ／ おきのどく様／まいる／なま／より 御ごたごたとの御文ミるのもいやに／おはしまし候なれどはいしよまいらせ候／せんしハにくふぞ々々ばたくさと／御ゆらせミなミなおそれ入江丁ニ候まゝ／もふもふぢしんに御ゆらせハ永代よし／岡（おか）丁になされ度おたびの人乃／其病（そのくせ）にわる鯰（なまづ）るく弁天（べてん）して初会（しよくわい）の／晩（ばん）から安宅（あたけ）だしお屋しきさんの／やぐら下（した）鐘（かね）つき堂（どう）宮（ミや）破（こわ）したり／多（おゝ）くの人中はぢもせずゆすり／がたりの性悪（しやうわる）を聞（きい）てとむねを佃（つくだ）丁／どこの二階（かい）へゆるふともじやまの／宿（しゆく）にされなんすわづかばかりの花（はな）／川戸まけバぢまんで世直（よなを）しと／下付合がよいゆへに焚付（たきつけ）られて／燃（もへ）あがり焼（やけ）ぼつくひに■／御かよひ被成候ても神々（かミかミ）様（さま）や／聖天（せうでん）町田丁にござる法印（ほういん）さん／お守（まもり）お札（ふだ）でばちを的（あて）ふうじこめ／まいらせ候まま要（かなめ）さんの下に尾鰭（をひれ）を縮（ちゞめ）／堅（かたく）しんぼうなされくどふも々々此すへ共／かならず御ゆらせなきやう神かけ／ねんじまいらせ候これでいよいよ／めで度かしく／■しき／なまさんへ／おとゝひござれ／万代屋内／ゆたか／ "
+        },
+        {
+            "label": "概要-名称",
+            "value": "地口十一種（仮）"
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "富越 "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0118"
+        },
+        {
+            "label": "Identifier",
+            "value": "beaa7124-bbb0-4556-9d8b-23f77dc8ff37"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/beaa7124-bbb0-4556-9d8b-23f77dc8ff37",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/17612",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/beaa7124-bbb0-4556-9d8b-23f77dc8ff37/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": null,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": null,
+                                "width": null
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.6.3.0",
+                    "width": null
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

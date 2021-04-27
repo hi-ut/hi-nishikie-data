@@ -1,0 +1,120 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://wellcomelibrary.org/ld/ixif/0/context.json"
+    ],
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9dcabc67-b90d-4fab-9d34-fb65b3c5129d/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "新板改正大平武鑑 ∽120",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "新板改正大平武鑑 ∽120"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "120"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "03報道・ニュース"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "内容記述",
+            "value": "｛上段｝新板／改正／大平武官／町平家　本国武蔵／清和火用心性／大食冠釜元之後／胤火用心四郎触／次之嫡男龍越次／郎水張之十三代／玄蕃頭汲為郷之／長男桶次（ヲケツグ）玄蕃頭―／ ―桶増（ヲケマス）入道龍吐斎―／ ―女子番野守之進室／ ―桶盛（ヲケモリ）大炊頭―／　 ―桶置（ヲケヲキ）―／ ―女子引摺竹之丞室／ ―桶数（ヲケカツ）　長門守―／ ―桶重（ヲケンケ）　安芸守―／ ―女子樽野黒太夫室／桶高（オケクカウ）　三十郎丸―／ ｛中段｝上かじなし御門外／粥少将／町平安気守触吉／嘉永五子年　家徳／御内室室町殿詰元郷御娘／進上／家毎ニ／札一枚つつ／十月／一日／御着／拝領／昼夜の／御菓子／四月／一日／御暇／参府御暇之節上使番太郎／二本とも／本ミつき／ 金棒先ニ並／押／駕／御嫡／町平安藤丸／御内室柏子木合図打次之御娘／鉄うるしかけ／本太刀■巻／つるべの／ふろふろ／押／駕／時献上／寒中池田炭／桜炭／粥之一ト鍋／堅餅／盆盛落鳫／干菓子一ト袋／地主代金店々菓子料金一包／纏／｛下に図有り｝ ｛下段｝御苦老／室町誥右エ門／▲通町詰太夫／▲家守五九郎／店野番左エ門／番野助之進／店番増太夫／▲草引太郎左エ門火用心／▲天水桶之進／▲龍野越次郎／▲水野　幟／金棒鉄之進／▲松火林右エ門／割太竹太夫／桶野水右エ門／時廻隼人／火事野内紀／▲日比野厳重郎／番野長門／時廻安芸／御用心／火鉢大炭／御町使／▲自身番太夫／▲金野入ル兵衛／妙政事派　万年山　太平寺／高拾万八百八町余江土一円制之　道法江戸ヨリ四方／八百里余／明暦三酉年正月江戸大火以来百七年目ニ当り明和／九辰年二月十九日目黒行人坂ヨリ大火又三十年其／後文化三寅年三月四日高輪ヨリ大火又二十四年後／文政十二丑年三月廿一日佐久間町ヨリ出火又六年天／保五午年同所ヨリ出火又十三年目弘化三午年本／郷丸山ヨリ大火当時嘉永五子年安氣守触吉以後／代々禁之／中屋敷　○うら路次番丁　○あきゆ定番 "
+        },
+        {
+            "label": "概要-名称",
+            "value": "新板改正大平武鑑 "
+        },
+        {
+            "label": "関係資料-所蔵機関",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "デジタルデータ関連-デジタルデータの収蔵場所",
+            "value": "東京大学大学院情報学環図書室"
+        },
+        {
+            "label": "情報入力",
+            "value": "新関"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/b1d07208-866e-4598-886a-b55427926987\"><span class=\"resource-name\">小野秀雄コレクションかわら版</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0000-0120"
+        },
+        {
+            "label": "Identifier",
+            "value": "9dcabc67-b90d-4fab-9d34-fb65b3c5129d"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/9dcabc67-b90d-4fab-9d34-fb65b3c5129d",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/13666",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/9dcabc67-b90d-4fab-9d34-fb65b3c5129d/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "/iiif/ixif-message/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "height": null,
+                    "images": [
+                        {
+                            "@id": "/iiif/ixif-message/imageanno/placeholder",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "/iiif/ixif-message/canvas/c1",
+                            "resource": {
+                                "@id": "/iiif/ixif-message-0/res/placeholder",
+                                "@type": "dctypes:Image",
+                                "height": null,
+                                "width": null
+                            }
+                        }
+                    ],
+                    "label": "Placeholder image",
+                    "thumbnail": "/modules/IiifServer/asset/img/thumbnails/placeholder-image.png?v=3.6.3.0",
+                    "width": null
+                }
+            ],
+            "compatibilityHint": "displayIfContentUnsupported",
+            "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers."
+        }
+    ]
+}

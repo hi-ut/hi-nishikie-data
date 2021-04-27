@@ -1,0 +1,139 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://khirin-a.rekihaku.ac.jp/manifests/nishikie/H-22-1-18-21.json",
+    "@type": "sc:Manifest",
+    "attribution": "国立歴史民俗博物館 National Museum of Japanese History",
+    "label": "源七　坂東彦三郎、おみは　中村芝翫、もとめ　坂東薪水",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "logo": "https://khirin-ld.rekihaku.ac.jp/resource/img/logo-01.png",
+    "metadata": [
+        {
+            "label": "コレクション名",
+            "value": "豊原国周"
+        },
+        {
+            "label": "版型",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "縦"
+        },
+        {
+            "label": "員数",
+            "value": "3枚続"
+        },
+        {
+            "label": "和暦",
+            "value": "明治4年9月"
+        },
+        {
+            "label": "主題分類",
+            "value": "役者絵"
+        },
+        {
+            "label": "内容分類",
+            "value": "舞台姿"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4838.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "height": 1500,
+                    "images": [
+                        {
+                            "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4838.tif/full/full/0/default.jpg",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4838.tif/canvas",
+                            "resource": {
+                                "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4838.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4838.tif/canvas",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fnishikie%2F464F4838.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1500
+                            }
+                        }
+                    ],
+                    "label": "コマ 1",
+                    "width": 1500
+                },
+                {
+                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4841.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "height": 1500,
+                    "images": [
+                        {
+                            "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4841.tif/full/full/0/default.jpg",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4841.tif/canvas",
+                            "resource": {
+                                "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4841.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4841.tif/canvas",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fnishikie%2F464F4841.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1500
+                            }
+                        }
+                    ],
+                    "label": "コマ 2",
+                    "width": 1500
+                },
+                {
+                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4844.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "height": 1500,
+                    "images": [
+                        {
+                            "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4844.tif/full/full/0/default.jpg",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4844.tif/canvas",
+                            "resource": {
+                                "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4844.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4844.tif/canvas",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fnishikie%2F464F4844.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1500
+                            }
+                        }
+                    ],
+                    "label": "コマ 3",
+                    "width": 1500
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F4838.tif/full/400,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals"
+}

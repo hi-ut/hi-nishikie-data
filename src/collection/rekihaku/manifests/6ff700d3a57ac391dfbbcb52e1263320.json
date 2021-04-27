@@ -1,0 +1,81 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://khirin-a.rekihaku.ac.jp/manifests/nishikie/H-22-1-31-46.json",
+    "@type": "sc:Manifest",
+    "attribution": "国立歴史民俗博物館 National Museum of Japanese History",
+    "label": "新板馬つくし",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "logo": "https://khirin-ld.rekihaku.ac.jp/resource/img/logo-01.png",
+    "metadata": [
+        {
+            "label": "コレクション名",
+            "value": "不詳"
+        },
+        {
+            "label": "版型",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "縦"
+        },
+        {
+            "label": "員数",
+            "value": "1枚"
+        },
+        {
+            "label": "和暦",
+            "value": null
+        },
+        {
+            "label": "主題分類",
+            "value": "玩具絵"
+        },
+        {
+            "label": "内容分類",
+            "value": "物尽し"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F8193.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "height": 1500,
+                    "images": [
+                        {
+                            "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F8193.tif/full/full/0/default.jpg",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F8193.tif/canvas",
+                            "resource": {
+                                "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F8193.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "on": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F8193.tif/canvas",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext%2Fnishikie%2F464F8193.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1500
+                            }
+                        }
+                    ],
+                    "label": "コマ 1",
+                    "width": 1500
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://khirin-a.rekihaku.ac.jp/iiif/2/ext/nishikie/464F8193.tif/full/400,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals"
+}

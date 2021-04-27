@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6448f49a-8868-4dc7-a79a-5ff2dfe4c7b3/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "近世人物誌やまと新聞付録∽項番:125 資料No.8",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "近世人物誌やまと新聞付録∽項番:125 資料No.8"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:125 資料No.8"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1956年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "近世人物誌やまと新聞付録"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:芳年/彫師:"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "某少将の妾のはなし(読み下し文_括弧なし:某少将の妾／少将の妾某ハ以前日本橋の芸妓にて／名を小勝と称せり其心ばへ尋常の芸妓／ならざるを以て少将愛して妓籍を脱させ妾／として任地熊本の営所へ伴はれたり然るに明治九年十月二十四日神風連の暴挙の為に少／将ハ重傷を負れ遂に逝去あリ此時妾ハ東京の母の許ヘ「ダンナハイケナイ、ワタシハテヲヒ」との／電報を送りたりと当時の諸新開に載たり其後妾ハ尚同所に止まりしが或時同県に巡／査を奉職なす何某が此妾を懸想し思ひ／に絶かね一日面会のうヘ恋情のやるせなき／を吐露せしに之を戒め妾ハ故殿の恩偶を／蒙る一朝の事にあらず殿逝せられて土／いまだ乾かざるに御身と怪しかる事のあらバ／妾は流石に芸妓の果なりと人に後ろ指差／れん事の無念なり御身も軽重の別こそ／あれ等しく官吏ならずや此場は是限／として人にも言ぬ御身も此後を慎み／玉はれよとありしかバ某ハ慙愧に絶ず／穴賢断念すべしとあつけれバ妾は数／ならぬ身を斬までに思ひ玉はるこころ／ざしこそ嬉しけれと肌につけたる長／襦袢脱予へたり其年某ハ西南の／役に討死せしが肌にハ妾のあたへ／たるなが襦袢を着し居たりし／とか )"
+        },
+        {
+            "label": "出版者",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0125-0008"
+        },
+        {
+            "label": "Identifier",
+            "value": "6448f49a-8868-4dc7-a79a-5ff2dfe4c7b3"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/6448f49a-8868-4dc7-a79a-5ff2dfe4c7b3",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/28741",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6448f49a-8868-4dc7-a79a-5ff2dfe4c7b3/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6448f49a-8868-4dc7-a79a-5ff2dfe4c7b3/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6448f49a-8868-4dc7-a79a-5ff2dfe4c7b3/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/6448f49a-8868-4dc7-a79a-5ff2dfe4c7b3/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33645/full/633,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33645",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 950
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/28741/1333099099421.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 158
+                    },
+                    "width": 950
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/28741/1333099099421.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 158
+    }
+}

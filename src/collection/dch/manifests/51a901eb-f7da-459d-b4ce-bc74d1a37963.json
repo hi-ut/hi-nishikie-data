@@ -1,0 +1,132 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51a901eb-f7da-459d-b4ce-bc74d1a37963/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:81 資料No.1015",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:81 資料No.1015"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:81 資料No.1015"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1992年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一恵斎芳幾/彫師:渡辺彫栄 "
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "特大の熨斗を付けて、女房を間男に進上(読み下し文_括弧なし:大坂天満の横通りに昔よりして聞へたる。はらはら薬を売る主ハ呂太夫／とよぶ義太夫の師匠の女房ハ美麗にて。売薬よりも名に高く京人形と／混名を／得しが。兼て此家の／寓公と密通したる／を呂太夫ハ。疾くも知／りて大きなる熨斗を／つくりて女房に背負ハせ。／彼の寓公を呼出して。年来／所持の京人形を。足下の玩弄に進ぜる／ほどに。何処へなりとも御持なされと。追出されて／二人とも不覚の涙はらはら薬。手に手をとって出ゆきしハ。／主人が語れる茶理場に似たり／転々堂戯録 )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "元記事原文",
+            "value": "大坂天満の天神横通りにて昔しより名高きはらはら薬／の主人ハ呂大夫と呼び浄瑠璃の師匠を内職が近ごろハ立／派な本職と成りし由その女房ハ家伝の腹薬よりも名高き／美人にて年ハ二十二か三ぐらゐ京人形と渾名（あだな）を得るほど／の別品なりしが何日（いつ）の程よりか此家に偶然（のらくら）して居たる寓／公（いそうろう）と密通して居たる事を呂大夫が早くも悟りて何（いつ）れへか／密かに誂（あつ）らへ置（おき）しにや或る日畳一帖じぎ程なる大のしを／持来（もちきた）りけるを受取るや否や直と是をその女房の背中に縛（しば）／り付け彼の寓公（いそうろう）を呼び出して此京人形を貴殿の玩物（おもちや）に進／上するさかい何処（いつこ）へなど持（もツ）て往（いき）やはれと共に其家を追ひ／出しけるとか扨も愉快な腹薬の主人かな寓公もけっこうな頂／戴もの然（し）て見れバ矢はり果報は寝（ね）て待が宣（よい）か知らん "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0081-1015"
+        },
+        {
+            "label": "Identifier",
+            "value": "51a901eb-f7da-459d-b4ce-bc74d1a37963"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/51a901eb-f7da-459d-b4ce-bc74d1a37963",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/12994",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51a901eb-f7da-459d-b4ce-bc74d1a37963/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51a901eb-f7da-459d-b4ce-bc74d1a37963/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51a901eb-f7da-459d-b4ce-bc74d1a37963/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/51a901eb-f7da-459d-b4ce-bc74d1a37963/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33609/full/615,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33609",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 923
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12994/1333099080185.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 154
+                    },
+                    "width": 923
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/12994/1333099080185.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 154
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/519ad82a-ae34-47af-a4fc-a240cbc1cddf/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:55 資料No.914",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:55 資料No.914"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:55 資料No.914"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:恵斎芳幾,"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "瘡毒の男の枕元でおたきあげ(読み下し文_括弧なし:横浜元町の商某ハ徴毒にて煩ふ事／既に十三年の久しきに／及びたり此ころ寒サの／強き故にや只訳もな／き譫語を発する事／折々ありけるを家内／の者とも聞つけて是ハ／全く／憑物／のしたるな／らんと吉田／町辺に住／める大山講／とか御嶽／講とかの先／達の所へ駈／行其次第／を咄して／頼たる／に／彼の先達ハ左官／にて出入のお店へ壁を塗に／往て居たりしが其報知をきくや否や／仕事を休み俄に講中五六人を誘ひ彼の病／人の許に至り是ハ護摩をせねバならぬとて病人の枕上にて盛んに／火を焚き鈴をふりたて珠数幣帛などを持ち異口同音に真言を唱へ／つつ病人の頭より手足に至るまで所を嫌ハず打ち叩けば病人ハ苦痛／に絶へかねいつそ憑性の真似して一時の苦しミを遁んと思ひ速に立／ち去りますと云ふに先達目を怒らして出て行ならば証拠を立ろ／サア其証拠にハ何を出すと押し詰られ病人も／当惑せしが赤い毛を三本置て行ますといひしかば皆々一同立／かかり病床の辺を探し求むれども更になかりければ先達又／怒りを発し此畜生め此上ハイサ鉄縛に掛て呉んと／いふを聞つけ病人むつくと起直りコリヤ左官／庄次郎どの気を落つけてよく聞れよわしが／体には只瘡毒という病気が付て居るはかり／外には何も付てハ居ぬお前がたこそ狐か狸／に魅まれて居らるるならめサア此上にも益／にも立ぬ馬鹿な真似をさつしやると神／奈川県庁へ願ひ付るぞと目を怒らして／白眼つけられ先達ハ肝を潰し手持不沙汰／な顔つきにて講中もろともこそこそと／遁げ帰りしハ不動／馬鹿にした咄し／ならずや )"
+        },
+        {
+            "label": "出版者",
+            "value": "人形町具足屋"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "横濱元町（もとまち）の商某ハ■毒にて煩らふ事すでに十三年に及／びたり其病に染みたる様を聞くに始ハ僅かに亀頭に小さ／き瘡（かさ）を生じたるが其ころ近所に住（すみ）し■者より煎薬をもら／ひ飲（の）み食忌をして魚肉や油濃き物難卵などを／バ喰ハぬ様に用心せしが数月の後に到り便毒を発したり／依て又かの■者に頼みて切りて貰（もら）ひたるに是も又平癒し／たるが夫（それ）より五六月を経て頭痛（づつう）を発し日々にますます烈／しく実に忍ぶべからず■夜ただ被を擁して呻吟するに至／りしが其■痛段々に他の部に廻（まは）り両手の諸骨節（ふしぶし）の痛（いた）むこ／と錐（きり）を以て刺（さす）が如く忽まち又両足の節々を痛（いた）み或ハ眼を／病み鼻を病み口を病む時に又脊髄（せぼね）を痛ましむ全身遂に激／痛せざる処なく身躰枯痩して顔色死せるが如く気力衰ろ／へ精神■忽として生（いき）もせず死もせず病床に在ること既に／十三年然れども、毎年夏季ハ病勢自然に緩（ゆる）み冬季に至れバ／常に劇発せしが此ころ寒気はげしかりけれバにや甚しく頭痛して切り裂かるるが如きこと日に三四たびツツ又手足／の節々も常より烈しく痛みて手も当（あて）られぬ程に苦しめり（中略）　ぬるに此人ハ江戸の或る商家に奉／公して索より実直の人と評（いは）れたる程なるが十余年前横■／の出店へ移りたる頃ふと朋友に誘ハれてかの頃ありし港／崎町の妓楼に只（たッ）た一夜（ひとばん）遊びたるに忽まち此重病を引出し／たりとて其当人も今さら深く後悔せり僅（わづ）か赤蒲団（あかぶとん）上一刻／の楽しみを以て十余年間の苦痛を引出すハ実に恐るべき／事ならずや皆様よくよく御用心なさるべし併し此人ハ始／めに藪医者に掛りて本統の療治を■さざりしより遂に斯／く多くの難儀をする様にハ成りし者ならん "
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0055-0914"
+        },
+        {
+            "label": "Identifier",
+            "value": "519ad82a-ae34-47af-a4fc-a240cbc1cddf"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/519ad82a-ae34-47af-a4fc-a240cbc1cddf",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/15287",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/519ad82a-ae34-47af-a4fc-a240cbc1cddf/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/519ad82a-ae34-47af-a4fc-a240cbc1cddf/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/519ad82a-ae34-47af-a4fc-a240cbc1cddf/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/519ad82a-ae34-47af-a4fc-a240cbc1cddf/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33585/full/626,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33585",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 939
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/15287/1333099067254.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 157
+                    },
+                    "width": 939
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/15287/1333099067254.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 157
+    }
+}

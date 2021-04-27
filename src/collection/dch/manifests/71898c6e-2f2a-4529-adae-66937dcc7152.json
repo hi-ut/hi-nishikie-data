@@ -1,0 +1,144 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71898c6e-2f2a-4529-adae-66937dcc7152/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "東京日々新聞∽項番:31 資料No.822",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "東京日々新聞∽項番:31 資料No.822"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:31 資料No.822"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、2007年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "東京日々新聞"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:一惠斎芳幾,彫師:渡辺彫栄"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "形態・形式情報-表現形式・スタイル",
+            "value": "01逐次刊行-新聞類"
+        },
+        {
+            "label": "内容記述",
+            "value": "夫婦共稼ぎの、男装女泥棒。(読み下し文_括弧なし:柳下恵は飴を見て嬰児を養ふに良といい。／盗跖は飴を以て鎖を開に宜と／云り。邪正に因て見所の／違ふ訓を甘んぜず。稠粘付／たる夫婦中倶に悪事を／引延す。夜盗は／昼を白玉飴売歩行／つつ深更ハ。丈夫に扮つ／女房が諸方の豪家へ忍／び入を。夫は例も児を抱き。／戸口を守／り竊たる／衣類調度／を／脊に負ふて。語ひながら帰れるハ／男女形装を異にして。戯場に脚色し／笠松峠鬼神お松に髣髴たる。夏目にあらで網の目を漏れぬ／天罰報ひ来て。野州橡木の／檻中につながれたるは／此頃なり／新聞局の雇人　鈍々述 )"
+        },
+        {
+            "label": "出版者",
+            "value": "辻文"
+        },
+        {
+            "label": "言語",
+            "value": "ja"
+        },
+        {
+            "label": "著作権",
+            "value": "機関による制作・発行・発表より50年以上経過"
+        },
+        {
+            "label": "元記事原文",
+            "value": "野州栃木より歸りし人の話に即今同県の檻中に／女の強盗つながれ居れりとこの者元來飴うりにて／書ハその夫■と小児■伴なひ飴をうりあるき夜ハ／この女子男のなりになり人家に忍び入り財を奪ひ／しとかの夫■ハ却て兄を抱きていつも門口を守り／ぬすみ取りし衣類調度をせをひて歸る事なり頃日／栃木の町にて■の如くかの夫■ハ児を抱きて人の／門口にうろつき居たれバ終に巡査にあやしまれて／夫婦ともからめとられたるなりこの夫妻男女かた／ちを異にす劇場に希にこのしくみあるをきく奇賊／といふべし "
+        },
+        {
+            "label": "Identifier",
+            "value": "71898c6e-2f2a-4529-adae-66937dcc7152"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0031-0822"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/71898c6e-2f2a-4529-adae-66937dcc7152",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/8704",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71898c6e-2f2a-4529-adae-66937dcc7152/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71898c6e-2f2a-4529-adae-66937dcc7152/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71898c6e-2f2a-4529-adae-66937dcc7152/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/71898c6e-2f2a-4529-adae-66937dcc7152/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33564/full/633,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33564",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 949
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/8704/1333099056201.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 158
+                    },
+                    "width": 949
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/8704/1333099056201.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 158
+    }
+}

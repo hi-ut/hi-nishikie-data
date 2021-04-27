@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb2926a8-03b6-46f9-ac2e-f0377672e059/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学大学院情報学環附属社会情報研究資料センター / Multi-media and Socio-Information Studies Archive, Interfaculty Initiative in Information Studies / Graduate School of Interdisciplinary Information Studies",
+    "label": "近世人物誌やまと新聞付録∽項番:124 資料No.7",
+    "metadata": [
+        {
+            "label": "タイトル",
+            "value": "近世人物誌やまと新聞付録∽項番:124 資料No.7"
+        },
+        {
+            "label": "記述レベル",
+            "value": "アイテム"
+        },
+        {
+            "label": "ライセンス",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;dch.iii.u-tokyo.ac.jp&#x2F;s&#x2F;dch&#x2F;page&#x2F;license_other\">http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other</a>"
+        },
+        {
+            "label": "資料ID",
+            "value": "項番:124 資料No.7"
+        },
+        {
+            "label": "枚数",
+            "value": "1"
+        },
+        {
+            "label": "来歴-所有者",
+            "value": "東京大学大学院情報学環図書室/附属社会情報研究資料センター"
+        },
+        {
+            "label": "来歴-現物資料の来歴",
+            "value": "1970年代後半小野秀雄邸より旧新聞研究所に移管。1980年代から2000年代にかけて情報学環本館７Ｆ展示室に保存されていたものを、1957年以降<br />\n図書室/社会情報研究資料センター貴重資料保存スペースに移管。"
+        },
+        {
+            "label": "概要-名称",
+            "value": "近世人物誌やまと新聞付録"
+        },
+        {
+            "label": "概要-作成",
+            "value": "絵師:芳年/彫師:彫工円活"
+        },
+        {
+            "label": "デジタルデータ関連-デジタル化の有無",
+            "value": "デジタル化済"
+        },
+        {
+            "label": "内容記述",
+            "value": "横綱梅ヶ谷藤太郎の話(読み下し文_括弧なし:力士梅ヶ谷藤太郎／梅が谷ハ筑前福岡在の出生なり幼に／して父を亡ひ家貧しケれバ薪木を負／て市に出辛く母を養ひ居たりしが人の／進めに由り大阪に出て角觝となりしに／幾程もなく大関となり梅が谷の名ハ関／の東西に聞へて囂々たり或時古郷の／母を大阪へ迎へんとせしかど母ハ住／馴し地を離るるを好まねバ田畑数／丁を求めて母が隠居の料とせり其／後深く前途に感かる所ありて江戸に出／当時相撲道の行はるる杓子定規の圧／制を忍んで固守し昨日ハ難波の大関と／称せられし身も今日ハ江都の幕下とな／りしが尚倦色もなく勉励し忽ち大関の要／地に昇り向ふに敵なく古の谷風中古の陳／幕と伯仲の間にありとの評あり遂に去る／十七年の春横綱免許の栄を得たりしが／恰も好其年賢き辺りの御覧を忝なふし／御前に於て一人り土俵入をなし関脇を太刀持／に小結を露払ひとせしハ遠く其例を聞ず／此天覧相撲にも勝を得て其日の大関に協／ふとて弓を賜はりき程なく辞して年寄と／なり同社会にてハ殊に重んずべき雷／権太夫の名を相続し東の幕の内ハ過半／氏が門人たり凡そ此道開けて以来氏の如き／始終芽出度人を見ざりき )"
+        },
+        {
+            "label": "出版者",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "Is Aggregated By",
+            "value": "<a class=\"resource-link\" href=\"https://dch.iii.u-tokyo.ac.jp/s/dch/record/89cdabaa-823e-4d87-90f5-af0554cbe47c\"><span class=\"resource-name\">小野秀雄コレクション新聞錦絵</span></a>"
+        },
+        {
+            "label": "sort",
+            "value": "0124-0007"
+        },
+        {
+            "label": "Identifier",
+            "value": "bb2926a8-03b6-46f9-ac2e-f0377672e059"
+        }
+    ],
+    "related": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/s/dch/record/bb2926a8-03b6-46f9-ac2e-f0377672e059",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/api/items/18763",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb2926a8-03b6-46f9-ac2e-f0377672e059/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb2926a8-03b6-46f9-ac2e-f0377672e059/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1200,
+                    "images": [
+                        {
+                            "@id": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb2926a8-03b6-46f9-ac2e-f0377672e059/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://dch.iii.u-tokyo.ac.jp/iiif/2/bb2926a8-03b6-46f9-ac2e-f0377672e059/canvas/p1",
+                            "resource": {
+                                "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33644/full/635,800/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://dch.iii.u-tokyo.ac.jp/iiif-img/2/33644",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 953
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/18763/1333099098905.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 200,
+                        "width": 159
+                    },
+                    "width": 953
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://dch.iii.u-tokyo.ac.jp/files/medium/18763/1333099098905.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 200,
+        "width": 159
+    }
+}
