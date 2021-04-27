@@ -26,6 +26,25 @@ curation = {
     "selections": selections
 }
 
+tmp = {
+    "石本コレクション" : {
+        "attribution" : "東京大学総合図書館",
+        "license" : "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    },
+    "Digital Cultural Heritage" : {
+        "attribution" : "東京大学大学院情報学環附属社会情報研究資料センター",
+        "license" : "http://dch.iii.u-tokyo.ac.jp/s/dch/page/license_other",
+    },
+    "歴博・館蔵錦絵コレクション" : {
+        "attribution" : "国立歴史民俗博物館",
+        "license" : "https://creativecommons.org/licenses/by-sa/4.0/",
+    },
+    "東京大学史料編纂所・錦絵データベース" : {
+        "attribution" : "東京大学史料編纂所",
+        "license" : "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    }
+}
+
 for i in range(len(files)):
 
     file = files[i]
@@ -37,6 +56,8 @@ for i in range(len(files)):
         continue
 
     manifests = collection["manifests"]
+
+    print(collection["label"])
     
     for j in range(len(manifests)):
         m = manifests[j]
@@ -64,7 +85,9 @@ for i in range(len(files)):
                     "metadata": m["metadata"],
                     "@id": uri,
                     "@type": "sc:Canvas",
-                    "thumbnail": thumbnail
+                    "thumbnail": thumbnail,
+                    "attribution": tmp[collection["label"]]["attribution"],
+                    "license": tmp[collection["label"]]["license"],
                 } 
             ],
             "within": {
