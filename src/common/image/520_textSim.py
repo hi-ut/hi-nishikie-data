@@ -53,7 +53,7 @@ def wakachi(text):
 #文書ベクトル化関数
 def vecs_array(documents):
     docs = np.array(documents)
-    vectorizer = TfidfVectorizer(binary=True,use_idf=False) # analyzer=wakachi,
+    vectorizer = TfidfVectorizer(analyzer=wakachi,binary=True,use_idf=False) # analyzer=wakachi,
     vecs = vectorizer.fit_transform(docs)
     return vecs.toarray()
 
