@@ -44,7 +44,7 @@ import yaml
 DELETE_FLAG = True
 
 output_dir = "data/json"
-input_dir = "data/files/medium"
+input_dir = "data/files/test2"
 
 # configure command line interface arguments
 flags = tf.app.flags

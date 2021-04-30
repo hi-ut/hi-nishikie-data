@@ -98,7 +98,7 @@ for i in range(len(cs_array)):
 
     member["texts"] = texts    
 
-path = dir + "/top_text.json"
+path = dir + "/top_text_tmp.json"
 
 with open(path, 'w') as outfile:
     json.dump(curation, outfile, ensure_ascii=False,
